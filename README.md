@@ -6,4 +6,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/wdfk-prog/count.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdfk-proga&show_icons=true&theme=radical)
+
