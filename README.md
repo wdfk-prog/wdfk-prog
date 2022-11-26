@@ -10,15 +10,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdfk-prog)](https://github.com/wdfk-prog/github-readme-stats)
 
-[![supperthomas's github stats](https://github-readme-stats.vercel.app/api?username=supperthomas)](https://github.com/supperthomas)
-
 ## 📘 My top open source projects
 
 <p align="left">
   <a href="https://github.com/RT-Thread/rt-thread">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=RT-Thread&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="RT-THREAD"></a>
 </p>
-
 
 ## 自己创建的repo
 
@@ -27,16 +24,7 @@
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wdfk-prog&repo=canfestival-rtt&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="canfestival-rtt"></a>
 </p>
 
-
 ## 学习中的repo
-
-
-
-
-
-
-
-
 
 <a href="https://github.com/wdfk-prog"><img alt="wdfk-prog's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wdfk-prog&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
