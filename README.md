@@ -26,3 +26,19 @@
   <a href="https://github.com/wdfk-prog/canfestival-rtt">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wdfk-prog&repo=canfestival-rtt&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="canfestival-rtt"></a>
 </p>
+
+
+## 学习中的repo
+
+
+
+
+
+
+
+
+
+<a href="https://github.com/wdfk-prog"><img alt="wdfk-prog's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wdfk-prog&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
