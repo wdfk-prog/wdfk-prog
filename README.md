@@ -24,5 +24,5 @@
 
 <p align="left">
   <a href="https://github.com/wdfk-prog/canfestival-rtt">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=supperthomas_doc&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="canfestival-rtt"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=canfestival-rtt&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="canfestival-rtt"></a>
 </p>
