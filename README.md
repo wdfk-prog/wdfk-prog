@@ -58,3 +58,5 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+![](https://raw.githubusercontent.com/wdfk-prog/wdfk-prog/output/github-contribution-grid-snake.svg)
