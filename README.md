@@ -50,6 +50,9 @@
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wdfk-prog&repo=ART-PI&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="ART-PI"></a>
   <a href="https://github.com/wdfk-prog/canopen-switches-modbus-gateway">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wdfk-prog&repo=canopen-switches-modbus-gateway&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="canopen-switches-modbus-gateway"></a>
+<a href="https://github.com/wdfk-prog/https://github.com/wdfk-prog/rt-thread-get_irq_priority">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wdfk-prog&repo=rt-thread-get_irq_priority&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="rt-thread-get_irq_priority"></a>
+
 </p>
 
 ## 学习中的repo
