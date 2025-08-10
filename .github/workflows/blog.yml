@@ -3,7 +3,6 @@ name: Recent Blog
 on:
   schedule:
     - cron: "0 0 * * *"
-    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
 jobs:
@@ -12,8 +11,21 @@ jobs:
     name: generate-readme-feed
     steps:
       - uses: actions/checkout@v4
+        # 添加 fetch-depth: 0 以获取完整的 git 历史，这有助于 rebase
+        with:
+          fetch-depth: 0
+
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: "https://rss.csdn.net/qq_39665253/rss/map"
           file: "README.md"
+          
+      # 在提交前，先拉取最新的远程更改
+      - name: Pull latest changes and rebase
+        run: git pull --rebase
+
+      # 继续进行提交和推送
       - uses: sarisia/actions-commit@master
+        with:
+          message: "docs: 更新近期博客列表" # 建议使用更明确的提交信息
+          branch: main
