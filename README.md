@@ -123,3 +123,11 @@ Linker Script            1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/wdfk-prog/wdfk-prog/output/github-contribution-grid-snake.svg)
+
+<!-- feed start -->
+- Aug 10 - [STM32 DMAMUX 平台驱动程序注册](https://blog.csdn.net/qq_39665253/article/details/150142902)
+- Aug 10 - [DMA引擎 Unmap内存池与总线初始化](https://blog.csdn.net/qq_39665253/article/details/150142770)
+- Aug 10 - [Linux DMA引擎的脉搏：解构高性能通道查找机制](https://blog.csdn.net/qq_39665253/article/details/150142603)
+- Aug 10 - [【无标题】](https://blog.csdn.net/qq_39665253/article/details/150142568)
+- Aug 10 - [[Linux]学习笔记系列 -- [arm][lib]](https://blog.csdn.net/qq_39665253/article/details/150142291)
+<!-- feed end -->
