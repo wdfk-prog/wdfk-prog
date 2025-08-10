@@ -10,22 +10,28 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-readme-feed
     steps:
+      # 1. 检出代码，并获取完整的历史记录以便变基（rebase）
       - uses: actions/checkout@v4
-        # 添加 fetch-depth: 0 以获取完整的 git 历史，这有助于 rebase
         with:
           fetch-depth: 0
 
+      # 2. 运行博客 feed Action，它会修改本地的 README.md
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: "https://rss.csdn.net/qq_39665253/rss/map"
           file: "README.md"
-          
-      # 在提交前，先拉取最新的远程更改
-      - name: Pull latest changes and rebase
-        run: git pull --rebase
+      
+      # 3. 关键步骤：在提交前，先拉取远程的最新更改并进行变基
+      #    这会将您手动更新的 README 拉取下来，然后将 feed Action 的修改应用在它之上
+      - name: Pull latest changes from remote
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase
 
-      # 继续进行提交和推送
-      - uses: sarisia/actions-commit@master
+      # 4. 提交并推送所有更改
+      - name: Commit and push changes
+        uses: sarisia/actions-commit@master
         with:
-          message: "docs: 更新近期博客列表" # 建议使用更明确的提交信息
+          message: "docs(readme): update recent blog posts"
           branch: main
