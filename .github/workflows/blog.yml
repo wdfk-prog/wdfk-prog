@@ -3,6 +3,7 @@ name: Recent Blog
 on:
   schedule:
     - cron: "0 0 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
 jobs:
@@ -10,28 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-readme-feed
     steps:
-      # 1. 检出代码，并获取完整的历史记录以便变基（rebase）
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      # 2. 运行博客 feed Action，它会修改本地的 README.md
       - uses: sarisia/actions-readme-feed@v1
         with:
           url: "https://rss.csdn.net/qq_39665253/rss/map"
           file: "README.md"
-      
-      # 3. 关键步骤：在提交前，先拉取远程的最新更改并进行变基
-      #    这会将您手动更新的 README 拉取下来，然后将 feed Action 的修改应用在它之上
-      - name: Pull latest changes from remote
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git pull --rebase
-
-      # 4. 提交并推送所有更改
-      - name: Commit and push changes
-        uses: sarisia/actions-commit@master
-        with:
-          message: "docs(readme): update recent blog posts"
-          branch: main
+      - uses: sarisia/actions-commit@master
