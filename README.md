@@ -87,11 +87,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 12 - [*Linux内核探秘：get_device_parent函数在sysfs设备树构建中的核心作用**](https://blog.csdn.net/qq_39665253/article/details/150267550)
+- Aug 12 - [[Linux]学习笔记系列 -- [arm][mm]](https://blog.csdn.net/qq_39665253/article/details/150267485)
 - Aug 11 - [[Linux]学习笔记系列 -- [arm][lib]](https://blog.csdn.net/qq_39665253/article/details/150206825)
 - Aug 10 - [[Linux]学习笔记系列 -- [arm][lib]](https://blog.csdn.net/qq_39665253/article/details/150142291)
 - Aug 09 - [[Linux]学习笔记系列 -- [arm][lds]](https://blog.csdn.net/qq_39665253/article/details/150103227)
-- Aug 08 - [[Linux]学习笔记系列 -- [arm[kernel]](https://blog.csdn.net/qq_39665253/article/details/150058166)
-- Aug 07 - [[Linux]学习笔记系列 -- [arm][include]](https://blog.csdn.net/qq_39665253/article/details/150006195)
 <!-- feed end -->
 
 </td></tr>
