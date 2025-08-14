@@ -87,11 +87,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 13 - [Linux内核的递归熵与异步系统守护进程的耦合解](https://blog.csdn.net/qq_39665253/article/details/150336804)
+- Aug 13 - [[Linux]学习笔记系列 -- [arm][process]](https://blog.csdn.net/qq_39665253/article/details/150335732)
 - Aug 12 - [*Linux内核探秘：get_device_parent函数在sysfs设备树构建中的核心作用**](https://blog.csdn.net/qq_39665253/article/details/150267550)
 - Aug 12 - [[Linux]学习笔记系列 -- [arm][mm]](https://blog.csdn.net/qq_39665253/article/details/150267485)
 - Aug 11 - [[Linux]学习笔记系列 -- [arm][lib]](https://blog.csdn.net/qq_39665253/article/details/150206825)
-- Aug 10 - [[Linux]学习笔记系列 -- [arm][lib]](https://blog.csdn.net/qq_39665253/article/details/150142291)
-- Aug 09 - [[Linux]学习笔记系列 -- [arm][lds]](https://blog.csdn.net/qq_39665253/article/details/150103227)
 <!-- feed end -->
 
 </td></tr>
