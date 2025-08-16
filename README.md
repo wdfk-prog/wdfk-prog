@@ -45,37 +45,10 @@
 ### 🏢 Work Experience
 <img align="right" width="88" src="https://th.bing.com/th/id/ODF.9ThaoGJymMsWX-ZfSuAOOQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" />
 
-- [你猜我在哪](https://github.com/wdfk-prog) &emsp; 📌 2024-09 —— 至今
-
-  - 工作岗位：下位机开发工程师
   - 工作内容：Linux业务 + 单片机所有工作
-
-<img align="right" width="88" src="https://www.milesight.cn/wp-content/uploads/2024/02/nav-logo2.svg" />
-
-- [厦门星纵物联科技有限公司](https://www.milesight.cn/) &emsp; 📌 2023-05 —— 2024-08
-
-  - 工作岗位：单片机开发工程师
   - 工作内容：LoraWan传感器端开发
-
-<img align="right" width="88" src="https://thfvnext.bing.com/th/id/OIP.cReCkEArMKkwtyFZaD2a5gAAAA?w=179&h=180&c=7&r=0&o=7&cb=thfvnext&dpr=1.3&pid=1.7&rm=3" />
-
-- [福建中科云杉信息技术有限公司](https://pccz.court.gov.cn/pcajxxw/pcgg/ggxq?id=3473C03ED415FB034DFC0EF8B8CA3644) &emsp; 📌 2023-01 —— 2023-4
-
-  - 工作岗位：嵌入式工程师
   - 工作内容：自动驾驶车辆的域控制器单片机开发
-
-<img align="right" width="88" src="https://th.bing.com/th/id/OIP.QFRBvH-ej6Ps3qqr0tvYNgAAAA?w=80&h=80&c=1&bgcl=97b957&r=0&o=7&dpr=1.3&pid=ImgRC&rm=3" />
-
-- [厦门宏泰智能制造有限公司](http://www.kingtronics.com.cn/) &emsp; 📌 2021-11 —— 2022-12
-
-  - 工作岗位：嵌入式工程师
   - 工作内容：激光叉车、四向穿梭车、仓储机器人, 小型无人堆垛叉车等项目的软硬件及电气设计与开发
-
-<img align="right" width="88" src="https://ogawa.com.cn/upfiles/brand/202106/1622689597505.png" />
-
-- [奥佳华智能健康科技集团股份有限公司](https://ogawa.com.cn/) &emsp; 📌 2021-03 —— 2021-10
-
-  - 工作岗位：硬件工程师
   - 工作内容：负责硬件模块的开发与测试。主要负责按摩椅手控器、类平板、音频,语音功放板,语音功放板,电机驱动等电路设计
 
 </td></tr>
