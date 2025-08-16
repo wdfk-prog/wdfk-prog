@@ -87,11 +87,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 15 - [RT-Thread迁移项目测试纪实：从硬件故障到驱动优化的排查之旅](https://blog.csdn.net/qq_39665253/article/details/150417720)
+- Aug 15 - [[Linux]学习笔记系列 -- [mm][backing-dev]](https://blog.csdn.net/qq_39665253/article/details/150417694)
 - Aug 14 - [解决因取消VMware快照删除导致的虚拟机磁盘损坏问题](https://blog.csdn.net/qq_39665253/article/details/150391999)
 - Aug 14 - [C++ 中的元控制流与概念化类型擦除](https://blog.csdn.net/qq_39665253/article/details/150381755)
 - Aug 14 - [[Linux]学习笔记系列 -- [block][\bdev]](https://blog.csdn.net/qq_39665253/article/details/150381147)
-- Aug 13 - [Linux内核的递归熵与异步系统守护进程的耦合解](https://blog.csdn.net/qq_39665253/article/details/150336804)
-- Aug 13 - [[Linux]学习笔记系列 -- [arm][process]](https://blog.csdn.net/qq_39665253/article/details/150335732)
 <!-- feed end -->
 
 </td></tr>
