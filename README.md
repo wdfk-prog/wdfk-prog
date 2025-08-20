@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 19 - [Linux GPIO子系统中开漏模式软件仿真机制的深度分析](https://blog.csdn.net/qq_39665253/article/details/150527379)
+- Aug 19 - [STM32高性能DMA架构解析：MDMA与DMA的核心差异及最佳实践](https://blog.csdn.net/qq_39665253/article/details/150520084)
+- Aug 19 - [基于量子纠缠与非线性混沌耦合的双电机协同控制算法范式研究](https://blog.csdn.net/qq_39665253/article/details/150518662)
+- Aug 19 - [[Linux]学习笔记系列 -- [mm][memblock]](https://blog.csdn.net/qq_39665253/article/details/150518531)
 - Aug 18 - [论往返之迴响：时间之织锦与信息之曼舞](https://blog.csdn.net/qq_39665253/article/details/150501209)
-- Aug 18 - [[Linux]学习笔记系列 --[mm][list_lru]](https://blog.csdn.net/qq_39665253/article/details/150501081)
-- Aug 16 - [[Linux]学习笔记系列 -- [mm][filemap]](https://blog.csdn.net/qq_39665253/article/details/150440385)
-- Aug 15 - [[Linux]学习笔记系列 -- [mm][backing-dev]](https://blog.csdn.net/qq_39665253/article/details/150417694)
-- Aug 14 - [解决因取消VMware快照删除导致的虚拟机磁盘损坏问题](https://blog.csdn.net/qq_39665253/article/details/150391999)
 <!-- feed end -->
 
 </td></tr>
