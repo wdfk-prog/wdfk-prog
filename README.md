@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 21 - [全面解析Linux设备模型的核心枢纽：drivers/base/bus.c](https://blog.csdn.net/qq_39665253/article/details/150578154)
+- Aug 21 - [[Linux]学习笔记系列 -- [mm][mmzone]](https://blog.csdn.net/qq_39665253/article/details/150578004)
 - Aug 20 - [mm/backing-dev.c: Linux Page Cache的数据交通控制器](https://blog.csdn.net/qq_39665253/article/details/150547056)
 - Aug 20 - [[Linux]学习笔记系列 -- [mm][mm_init]](https://blog.csdn.net/qq_39665253/article/details/150547024)
 - Aug 19 - [Linux GPIO子系统中开漏模式软件仿真机制的深度分析](https://blog.csdn.net/qq_39665253/article/details/150527379)
-- Aug 19 - [STM32高性能DMA架构解析：MDMA与DMA的核心差异及最佳实践](https://blog.csdn.net/qq_39665253/article/details/150520084)
-- Aug 19 - [基于量子纠缠与非线性混沌耦合的双电机协同控制算法范式研究](https://blog.csdn.net/qq_39665253/article/details/150518662)
 <!-- feed end -->
 
 </td></tr>
