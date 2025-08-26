@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 25 - [CAN总线的玄学：当科学无法解释的“灵异”故障出现时](https://blog.csdn.net/qq_39665253/article/details/150758300)
+- Aug 25 - [[Linux]学习笔记系列 -- mm/page_alloc](https://blog.csdn.net/qq_39665253/article/details/150758103)
 - Aug 22 - [[Linux]学习笔记系列 -- [mm][nommu]NO-MMU内存管理(NO-MMU Memory Management) 适用于无内存管理单元的系统](https://blog.csdn.net/qq_39665253/article/details/150599621)
 - Aug 21 - [[Linux]学习笔记系列 -- [mm][mmzone]](https://blog.csdn.net/qq_39665253/article/details/150578004)
 - Aug 20 - [[Linux]学习笔记系列 -- [mm][mm_init]](https://blog.csdn.net/qq_39665253/article/details/150547024)
-- Aug 19 - [Linux GPIO子系统中开漏模式软件仿真机制的深度分析](https://blog.csdn.net/qq_39665253/article/details/150527379)
-- Aug 19 - [STM32高性能DMA架构解析：MDMA与DMA的核心差异及最佳实践](https://blog.csdn.net/qq_39665253/article/details/150520084)
 <!-- feed end -->
 
 </td></tr>
