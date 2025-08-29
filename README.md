@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 28 - [[Linux]学习笔记系列](https://blog.csdn.net/qq_39665253/article/details/150944212)
+- Aug 28 - [u-boot学习笔记系列(36) -- 构建](https://blog.csdn.net/qq_39665253/article/details/150943677)
+- Aug 28 - [block/blk-core.c 请求队列管理核心(Request Queue Management Core) I/O提交的中央枢纽](https://blog.csdn.net/qq_39665253/article/details/150943442)
+- Aug 28 - [[Linux]学习笔记系列 -- mm/shmem 共享内存文件系统(Shared Memory Filesystem) tmpfs与POSIX共享内存的基石](https://blog.csdn.net/qq_39665253/article/details/150943398)
 - Aug 27 - [页面向量(Page Vector) 高效的批量页面操作工具](https://blog.csdn.net/qq_39665253/article/details/150919310)
-- Aug 27 - [[Linux]学习笔记系列 -- mm/percpu](https://blog.csdn.net/qq_39665253/article/details/150918969)
-- Aug 26 - [Git 高级技巧：利用 Cherry Pick 实现远程仓库的同步合并](https://blog.csdn.net/qq_39665253/article/details/150855081)
-- Aug 26 - [[Linux]学习笔记系列 -- mm/page-writeback](https://blog.csdn.net/qq_39665253/article/details/150854844)
-- Aug 25 - [CAN总线的玄学：当科学无法解释的“灵异”故障出现时](https://blog.csdn.net/qq_39665253/article/details/150758300)
 <!-- feed end -->
 
 </td></tr>
