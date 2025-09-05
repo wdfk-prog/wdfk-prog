@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 04 - [使用 SCons 精巧构建：一篇模块化构建脚本的深度解析](https://blog.csdn.net/qq_39665253/article/details/151173794)
+- Sep 04 - [[Linux]学习笔记系列 -- mm/util.c](https://blog.csdn.net/qq_39665253/article/details/151173458)
 - Sep 03 - [RT-Thread 编译错误深度解析：从 `undefined reference to list_thread` 到 `dangerous relocation`](https://blog.csdn.net/qq_39665253/article/details/151137390)
 - Sep 03 - [[Linux]学习笔记系列 -- mm/truncate.c 页面缓存截断(Page Cache Truncation) 文件大小变更的核心内存管理](https://blog.csdn.net/qq_39665253/article/details/151136835)
 - Sep 02 - [fs/open.c 文件打开与创建(File Opening and Creation) open/creat系统调用的VFS核心](https://blog.csdn.net/qq_39665253/article/details/151100693)
-- Sep 02 - [[Linux]学习笔记系列 -- mm/swap.c 交换机制(Swap Mechanism) 物理内存的虚拟扩展](https://blog.csdn.net/qq_39665253/article/details/151100449)
-- Sep 01 - [VFS 文件打开的核心：原子性地查找、创建与打开](https://blog.csdn.net/qq_39665253/article/details/151060018)
 <!-- feed end -->
 
 </td></tr>
