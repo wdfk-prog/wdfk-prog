@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 10 - [问题解析：为何单核 CPU 会出现多个 Running 线程？](https://blog.csdn.net/qq_39665253/article/details/151397539)
+- Sep 10 - [[Linux]学习笔记系列 -- lib/idr.c IDR/IDA机制(ID-to-Pointer/ID Allocator) 内核对象ID的分配与管理](https://blog.csdn.net/qq_39665253/article/details/151396338)
 - Sep 09 - [Python脚本深度解析：实现基于YMODEM的单片机固件自动化升级](https://blog.csdn.net/qq_39665253/article/details/151351883)
 - Sep 09 - [[Linux]学习笔记系列 -- lib/hashtable.h & include/linux/hash.h 哈希表与哈希函数(Hash Table & Hash Functions) 内核中快速数](https://blog.csdn.net/qq_39665253/article/details/151351480)
 - Sep 08 - [必应搜索错乱：当搜索结果与输入不符时，你该怎么办？](https://blog.csdn.net/qq_39665253/article/details/151311358)
-- Sep 08 - [[Linux]学习笔记系列 -- lib/dump_stack.c 栈回溯打印(Stack Trace Dumping) 内核调试与错误诊断的基石](https://blog.csdn.net/qq_39665253/article/details/151310244)
-- Sep 06 - [[Linux]学习笔记系列 -- lib/crc32.c 循环冗余校验库(Cyclic Redundancy Check Library) 通用的数据完整性校验算法](https://blog.csdn.net/qq_39665253/article/details/151254947)
 <!-- feed end -->
 
 </td></tr>
