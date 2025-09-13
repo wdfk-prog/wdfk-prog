@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 12 - [诊断RT-Thread系统中的“双RUNNING线程”异常：在`rt_schedule()`中设置一个可靠的“哨兵”](https://blog.csdn.net/qq_39665253/article/details/151608515)
+- Sep 12 - [Visual Studio Code 安装与更新故障排除：从“拒绝访问”到成功恢复](https://blog.csdn.net/qq_39665253/article/details/151608382)
 - Sep 11 - [优先级 1：大幅增加所有线程的栈空间 (The Quickest Check)](https://blog.csdn.net/qq_39665253/article/details/151558681)
 - Sep 11 - [Git子模块（Submodule）合并冲突的原理与解决方案](https://blog.csdn.net/qq_39665253/article/details/151557492)
 - Sep 10 - [STM32CubeIDE 调试“失灵”之谜：别动那个关键的复选框](https://blog.csdn.net/qq_39665253/article/details/151403631)
-- Sep 10 - [问题解析：为何单核 CPU 会出现多个 Running 线程？](https://blog.csdn.net/qq_39665253/article/details/151397539)
-- Sep 10 - [[Linux]学习笔记系列 -- lib/idr.c IDR/IDA机制(ID-to-Pointer/ID Allocator) 内核对象ID的分配与管理](https://blog.csdn.net/qq_39665253/article/details/151396338)
 <!-- feed end -->
 
 </td></tr>
