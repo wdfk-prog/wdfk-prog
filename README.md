@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 22 - [SPI通信模式及其对DMA控制器配置策略的影响](https://blog.csdn.net/qq_39665253/article/details/151959495)
+- Sep 22 - [STM32H7系列微控制器SPI FIFO阈值配置对高速数据传输稳定性的影响](https://blog.csdn.net/qq_39665253/article/details/151959158)
+- Sep 22 - [当你的断点在说谎：深入解析RTOS中的“幽灵”Bug](https://blog.csdn.net/qq_39665253/article/details/151955609)
+- Sep 22 - [[Linux]学习笔记系列 --lib/rbtree.c 红黑树(Red-Black Tree) 内核中通用的有序数据管理](https://blog.csdn.net/qq_39665253/article/details/151955322)
 - Sep 20 - [[Linux]学习笔记系列 -- lib/radix-tree.c 基数树(Radix Tree) 整数键到指针的高效映射](https://blog.csdn.net/qq_39665253/article/details/151893812)
-- Sep 19 - [[Linux]学习笔记系列 -- lib/maple_tree.c 高性能B树实现(High-Performance B-Tree Implementation) VMA管理的核心数据结构](https://blog.csdn.net/qq_39665253/article/details/151863354)
-- Sep 18 - [STM32系列微控制器DMA寄存器写入失败的解决方法](https://blog.csdn.net/qq_39665253/article/details/151831282)
-- Sep 18 - [[Linux]学习笔记系列 -- include/linux/list.h 内核双向循环链表(Kernel Doubly-Linked List) 内核数据结构的基础构建块](https://blog.csdn.net/qq_39665253/article/details/151819115)
-- Sep 17 - [[Linux]学习笔记系列 -- lib/kobject.c 内核对象(Kernel Object) 设备模型的核心基石](https://blog.csdn.net/qq_39665253/article/details/151793059)
 <!-- feed end -->
 
 </td></tr>
