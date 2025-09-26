@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 25 - [[Linux]学习笔记系列 -- lib/sort.c 通用的排序库(Generic Sorting Library) 为内核提供标准的、高效的排序功能](https://blog.csdn.net/qq_39665253/article/details/152074864)
 - Sep 24 - [Git向本地非裸仓库推送的机制与错误处理](https://blog.csdn.net/qq_39665253/article/details/152038574)
-- Sep 24 - [RT-Thread SPI设备驱动：动态挂载与卸载的艺术](https://blog.csdn.net/qq_39665253/article/details/152025312)
 - Sep 24 - [[Linux]学习笔记系列 -- include/linux/refcount.h 安全引用计数器(Safe Reference Counter) 防止Use-After-Free的专用原子计数器](https://blog.csdn.net/qq_39665253/article/details/152025089)
 - Sep 23 - [Rime输入法跨平台配置与同步教程：以雾凇拼音方案为例](https://blog.csdn.net/qq_39665253/article/details/151998012)
-- Sep 23 - [rime-ice 输入法：按下 Caps Lock 键进入大写模式后，通过 Shift 键切换回小写](https://blog.csdn.net/qq_39665253/article/details/151988421)
+- Sep 23 - [ARM Cortex-M内核中DMA内存地址对齐的影响与效率权衡](https://blog.csdn.net/qq_39665253/article/details/151988159)
 <!-- feed end -->
 
 </td></tr>
