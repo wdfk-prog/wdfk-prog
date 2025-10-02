@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 01 - [Hpatch In-place I/O Interception and Buffering](https://blog.csdn.net/qq_39665253/article/details/152367268)
+- Oct 01 - [[hpatch]差分算法学习笔记 -- lite解压](https://blog.csdn.net/qq_39665253/article/details/152366971)
 - Sep 30 - [`git rm --cached`：如何让文件“脱离”版本控制](https://blog.csdn.net/qq_39665253/article/details/152308418)
 - Sep 30 - [嵌入式差分合并：基于 SCons 和子模块的 HPatchLite 最小化构建实践](https://blog.csdn.net/qq_39665253/article/details/152306730)
 - Sep 30 - [[Linux]学习笔记系列 -- lib/timerqueue.c Timer Queue Management 高精度定时器的有序数据结构](https://blog.csdn.net/qq_39665253/article/details/152306609)
-- Sep 29 - [`STM32CubeProgrammer` 的**校验（Verify）**功能](https://blog.csdn.net/qq_39665253/article/details/152252124)
-- Sep 29 - [[Linux]学习笔记系列 -- string](https://blog.csdn.net/qq_39665253/article/details/152251724)
 <!-- feed end -->
 
 </td></tr>
