@@ -1,3 +1,11 @@
+---
+title: 个人说明
+date: 2025-10-03 08:44:26
+categories:
+  - readme
+tags:
+  - 个人说明
+---
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   
