@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Oct 03 - [Hexo 用户经常遇到的经典问题](https://blog.csdn.net/qq_39665253/article/details/152446538)
+- Oct 04 - [构建基于Hexo、Butterfly、GitHub与Cloudflare的高性能个人博客](https://blog.csdn.net/qq_39665253/article/details/152507412)
 - Oct 03 - [[hpatch]差分算法学习笔记 -- hdiffi差分压缩](https://blog.csdn.net/qq_39665253/article/details/152445955)
-- Oct 02 - [HDiffPatch Makefile 解析](https://blog.csdn.net/qq_39665253/article/details/152401986)
 - Oct 02 - [[Linux]学习笔记系列 -- lib/xarray.c eXtensible Array (XArray) 可扩展数组](https://blog.csdn.net/qq_39665253/article/details/152401910)
-- Oct 01 - [Hpatch In-place I/O Interception and Buffering](https://blog.csdn.net/qq_39665253/article/details/152367268)
+- Oct 01 - [[hpatch]差分算法学习笔记 -- lite解压](https://blog.csdn.net/qq_39665253/article/details/152366971)
+- Sep 30 - [`git rm --cached`：如何让文件“脱离”版本控制](https://blog.csdn.net/qq_39665253/article/details/152308418)
 <!-- feed end -->
 
 </td></tr>
