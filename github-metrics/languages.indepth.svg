@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 21.1mb of code in 1350 edited files across 173 commits</small>
+                <small>estimation from 21.5mb of code in 1383 edited files across 184 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.6613054957405" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="303.6613054957405" y="0" width="148.47195822086022" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.13326371660077" y="0" width="4.078835262012583" height="8" fill="#EB8CEB"/>
-                    <rect mask="url(#languages-bar)" x="456.2120989786133" y="0" width="3.7879010213866695" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.4898484821873" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="302.4898484821873" y="0" width="147.899186802092" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="450.3890352842793" y="0" width="5.140251568407378" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="455.52928685268665" y="0" width="4.470713147313297" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -44,13 +44,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#EB8CEB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                XSLT
+                                PowerShell
                             </div>
                             <small>
-                                <div>604 lines</div>
-                                <div>15.5 kB</div>
+                                <div>442 lines</div>
+                                <div>19.7 kB</div>
                             </small>
                         </div>
                     </section>
@@ -70,13 +70,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PowerShell
+                                C++
                             </div>
                             <small>
-                                <div>328 lines</div>
-                                <div>14.4 kB</div>
+                                <div>569 lines</div>
+                                <div>17.1 kB</div>
                             </small>
                         </div>
                     </section>
