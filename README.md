@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 07 - [seccomp_sysctl_init: Seccomp 子系统 sysctl 接口初始化](https://blog.csdn.net/qq_39665253/article/details/152648817)
+- Oct 07 - [[hpatch]差分算法学习笔记 -- patch解压补丁](https://blog.csdn.net/qq_39665253/article/details/152648671)
 - Oct 06 - [CSDN ----- 我的图床](https://blog.csdn.net/qq_39665253/article/details/152606409)
 - Oct 06 - [Linux内核kallsyms符号压缩的完整构建流程](https://blog.csdn.net/qq_39665253/article/details/152604241)
 - Oct 06 - [Linux内核kallsyms符号压缩与解压机制](https://blog.csdn.net/qq_39665253/article/details/152602993)
-- Oct 05 - [闹钟定时器(Alarm Timer)初始化：构建可挂起的定时器基础框架](https://blog.csdn.net/qq_39665253/article/details/152595926)
-- Oct 05 - [hpatch 学习笔记系列](https://blog.csdn.net/qq_39665253/article/details/152595713)
 <!-- feed end -->
 
 </td></tr>
