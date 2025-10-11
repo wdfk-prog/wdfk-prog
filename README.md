@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Oct 09 - [fcntl 初始化及 FASYNC 缓存创建：fcntl_init](https://blog.csdn.net/qq_39665253/article/details/152779757)
+- Oct 10 - [[hpatch]差分算法学习笔记 -- DivSufSort中的后缀类型：A, B, 和 B\* 详解](https://blog.csdn.net/qq_39665253/article/details/152887317)
 - Oct 09 - [[hpatch]差分算法学习笔记 -- tinyuz 压缩解压](https://blog.csdn.net/qq_39665253/article/details/152779036)
-- Oct 08 - [fs/ext4 全面了解：Linux默认文件系统的引擎室](https://blog.csdn.net/qq_39665253/article/details/152710983)
 - Oct 08 - [[hpatch]差分算法学习笔记 -- suffix_string后缀数组](https://blog.csdn.net/qq_39665253/article/details/152710910)
-- Oct 07 - [seccomp_sysctl_init: Seccomp 子系统 sysctl 接口初始化](https://blog.csdn.net/qq_39665253/article/details/152648817)
+- Oct 07 - [[hpatch]差分算法学习笔记 -- patch解压补丁](https://blog.csdn.net/qq_39665253/article/details/152648671)
+- Oct 06 - [CSDN ----- 我的图床](https://blog.csdn.net/qq_39665253/article/details/152606409)
 <!-- feed end -->
 
 </td></tr>
