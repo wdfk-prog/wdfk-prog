@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 14 - [[hpatch]差分算法学习笔记 -- saisxx](https://blog.csdn.net/qq_39665253/article/details/153246261)
+- Oct 14 - [[hpatch]差分算法学习笔记 -- trsort **Tandem Repeat Sort (串联重复排序)**](https://blog.csdn.net/qq_39665253/article/details/153246128)
 - Oct 13 - [klist 迭代器初始化：klist_iter_init_node 与 klist_iter_init](https://blog.csdn.net/qq_39665253/article/details/153180922)
 - Oct 13 - [[hpatch]差分算法学习笔记 -- sssort **递归核心：优化的子串排序算法](https://blog.csdn.net/qq_39665253/article/details/153179836)
 - Oct 10 - [[hpatch]差分算法学习笔记 -- DivSufSort中的后缀类型：A, B, 和 B\* 详解](https://blog.csdn.net/qq_39665253/article/details/152887317)
-- Oct 09 - [[hpatch]差分算法学习笔记 -- tinyuz 压缩解压](https://blog.csdn.net/qq_39665253/article/details/152779036)
-- Oct 08 - [[hpatch]差分算法学习笔记 -- suffix_string后缀数组](https://blog.csdn.net/qq_39665253/article/details/152710910)
 <!-- feed end -->
 
 </td></tr>
