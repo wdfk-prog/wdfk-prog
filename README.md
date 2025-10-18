@@ -33,7 +33,7 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是wdfk-prog。</p>
+<p>&emsp;&emsp;嗨，你好，我是wdfk-prog,瞎起的名字,毫无意义.或者你也可以认为是Windows Driver Framework Kernel Programmer,哈哈。</p>
 <p>&emsp;&emsp;热爱嵌入式，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -45,11 +45,11 @@
 ### 🏢 Work Experience
 <img align="right" width="88" src="https://th.bing.com/th/id/ODF.9ThaoGJymMsWX-ZfSuAOOQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" />
 
-  - 工作内容：Linux业务 + 单片机所有工作
+  - 工作内容：Linux业务开发 + 单片机驱动开发
   - 工作内容：LoraWan传感器端开发
   - 工作内容：自动驾驶车辆的域控制器单片机开发
   - 工作内容：激光叉车、四向穿梭车、仓储机器人, 小型无人堆垛叉车等项目的软硬件及电气设计与开发
-  - 工作内容：负责硬件模块的开发与测试。主要负责按摩椅手控器、类平板、音频,语音功放板,语音功放板,电机驱动等电路设计
+  - 工作内容：负责硬件模块的开发与测试, 负责手控器、平板、音频, 语音功放板,电机驱动等电路设计
 
 </td></tr>
 
