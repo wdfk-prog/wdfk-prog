@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 18 - [[Linux]学习笔记系列 -- [kernel][lock]local_lock](https://blog.csdn.net/qq_39665253/article/details/153515550)
+- Oct 18 - [[Linux]学习笔记系列 -- [kernel][lock]debug_locks](https://blog.csdn.net/qq_39665253/article/details/153515296)
 - Oct 17 - [[Linux]学习笔记系列 -- [kernel][irq]softirq](https://blog.csdn.net/qq_39665253/article/details/153460290)
 - Oct 17 - [[Linux]学习笔记系列 -- [kernel][irq]interrupt](https://blog.csdn.net/qq_39665253/article/details/153460095)
 - Oct 16 - [[Linux]学习笔记系列 --[kernel][irq]irq_work](https://blog.csdn.net/qq_39665253/article/details/153390898)
-- Oct 16 - [[Linux]学习笔记系列 -- [kernel][irq]drivers](https://blog.csdn.net/qq_39665253/article/details/153390515)
-- Oct 15 - [[Linux]学习笔记系列 -- [kernel][irq]chained_irq](https://blog.csdn.net/qq_39665253/article/details/153310530)
 <!-- feed end -->
 
 </td></tr>
