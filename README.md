@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 21 - [PotPlayer采集卡录制视频仅几百字节的解决办法](https://blog.csdn.net/qq_39665253/article/details/153700204)
+- Oct 21 - [[Linux]学习笔记系列 -- [kenel][lock]seqlock](https://blog.csdn.net/qq_39665253/article/details/153676995)
+- Oct 21 - [[Linux]学习笔记系列 -- [kernel][lock]rwsem](https://blog.csdn.net/qq_39665253/article/details/153676822)
 - Oct 20 - [[Linux]学习笔记系列 -- [kernel][lock]rwlock](https://blog.csdn.net/qq_39665253/article/details/153618386)
 - Oct 20 - [[Linux]学习笔记系列 -- [kernel][lock]mutex](https://blog.csdn.net/qq_39665253/article/details/153618127)
-- Oct 18 - [[Linux]学习笔记系列 -- [kernel][lock]local_lock](https://blog.csdn.net/qq_39665253/article/details/153515550)
-- Oct 18 - [[Linux]学习笔记系列 -- [kernel][lock]debug_locks](https://blog.csdn.net/qq_39665253/article/details/153515296)
-- Oct 17 - [[Linux]学习笔记系列 -- [kernel][irq]softirq](https://blog.csdn.net/qq_39665253/article/details/153460290)
 <!-- feed end -->
 
 </td></tr>
