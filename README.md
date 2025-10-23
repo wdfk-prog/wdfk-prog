@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 22 - [[Linux]学习笔记系列 -- [kernel][rcu] Read-Copy Update (RCU) 高性能的内核同步机制](https://blog.csdn.net/qq_39665253/article/details/153722242)
+- Oct 22 - [[Linux]学习笔记系列 -- [kernel][lock]spinlock](https://blog.csdn.net/qq_39665253/article/details/153721215)
 - Oct 21 - [PotPlayer采集卡录制视频仅几百字节的解决办法](https://blog.csdn.net/qq_39665253/article/details/153700204)
 - Oct 21 - [[Linux]学习笔记系列 -- [kenel][lock]seqlock](https://blog.csdn.net/qq_39665253/article/details/153676995)
 - Oct 21 - [[Linux]学习笔记系列 -- [kernel][lock]rwsem](https://blog.csdn.net/qq_39665253/article/details/153676822)
-- Oct 20 - [[Linux]学习笔记系列 -- [kernel][lock]rwlock](https://blog.csdn.net/qq_39665253/article/details/153618386)
-- Oct 20 - [[Linux]学习笔记系列 -- [kernel][lock]mutex](https://blog.csdn.net/qq_39665253/article/details/153618127)
 <!-- feed end -->
 
 </td></tr>
