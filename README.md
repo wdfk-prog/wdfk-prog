@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 24 - [[Linux]学习笔记系列 -- [kernel][sched]fair](https://blog.csdn.net/qq_39665253/article/details/153815293)
+- Oct 24 - [[Linux]学习笔记系列 -- [kernel][sched]deadline](https://blog.csdn.net/qq_39665253/article/details/153814992)
 - Oct 23 - [[Linux]学习笔记系列 -- [kernel][rcu]tree](https://blog.csdn.net/qq_39665253/article/details/153771207)
 - Oct 23 - [[Linux]学习笔记系列 -- [kernel][rcu]srcu](https://blog.csdn.net/qq_39665253/article/details/153770913)
 - Oct 22 - [[Linux]学习笔记系列 -- [kernel][rcu] Read-Copy Update (RCU) 高性能的内核同步机制](https://blog.csdn.net/qq_39665253/article/details/153722242)
-- Oct 22 - [[Linux]学习笔记系列 -- [kernel][lock]spinlock](https://blog.csdn.net/qq_39665253/article/details/153721215)
-- Oct 21 - [PotPlayer采集卡录制视频仅几百字节的解决办法](https://blog.csdn.net/qq_39665253/article/details/153700204)
 <!-- feed end -->
 
 </td></tr>
