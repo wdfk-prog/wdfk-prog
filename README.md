@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 25 - [[Linux]学习笔记系列 -- [kernel][sched]preempt](https://blog.csdn.net/qq_39665253/article/details/153867086)
+- Oct 25 - [[Linux]学习笔记系列 -- [kernel][sched]idle](https://blog.csdn.net/qq_39665253/article/details/153867024)
 - Oct 24 - [[Linux]学习笔记系列 -- [kernel][sched]fair](https://blog.csdn.net/qq_39665253/article/details/153815293)
 - Oct 24 - [[Linux]学习笔记系列 -- [kernel][sched]deadline](https://blog.csdn.net/qq_39665253/article/details/153814992)
 - Oct 23 - [[Linux]学习笔记系列 -- [kernel][rcu]tree](https://blog.csdn.net/qq_39665253/article/details/153771207)
-- Oct 23 - [[Linux]学习笔记系列 -- [kernel][rcu]srcu](https://blog.csdn.net/qq_39665253/article/details/153770913)
-- Oct 22 - [[Linux]学习笔记系列 -- [kernel][rcu] Read-Copy Update (RCU) 高性能的内核同步机制](https://blog.csdn.net/qq_39665253/article/details/153722242)
 <!-- feed end -->
 
 </td></tr>
