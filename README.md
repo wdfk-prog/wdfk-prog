@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 27 - [[Linux]学习笔记系列 -- [kernel][sched]sched 调度器核心(Scheduler Core) 进程调度与上下文切换的决策中心](https://blog.csdn.net/qq_39665253/article/details/153958380)
+- Oct 27 - [[Linux]学习笔记系列 -- [kernel][sched]RT实时调度(Real-Time Scheduling) 保证关键任务的优先执行](https://blog.csdn.net/qq_39665253/article/details/153958060)
 - Oct 25 - [[Linux]学习笔记系列 -- [kernel][sched]preempt](https://blog.csdn.net/qq_39665253/article/details/153867086)
 - Oct 25 - [[Linux]学习笔记系列 -- [kernel][sched]idle](https://blog.csdn.net/qq_39665253/article/details/153867024)
 - Oct 24 - [[Linux]学习笔记系列 -- [kernel][sched]fair](https://blog.csdn.net/qq_39665253/article/details/153815293)
-- Oct 24 - [[Linux]学习笔记系列 -- [kernel][sched]deadline](https://blog.csdn.net/qq_39665253/article/details/153814992)
-- Oct 23 - [[Linux]学习笔记系列 -- [kernel][rcu]tree](https://blog.csdn.net/qq_39665253/article/details/153771207)
 <!-- feed end -->
 
 </td></tr>
