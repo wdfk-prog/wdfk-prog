@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 30 - [小米AX3000T路由器多设备下载失速？一招固件升级彻底解决](https://blog.csdn.net/qq_39665253/article/details/154151306)
+- Oct 30 - [NVIDIA驱动更新“翻车”？解决RTX 2060在Bilibili客户端无法加载4K视频的终极指南*](https://blog.csdn.net/qq_39665253/article/details/154150235)
+- Oct 30 - [[Linux]学习笔记系列 -- [kernel][time]jiffies](https://blog.csdn.net/qq_39665253/article/details/154112479)
+- Oct 30 - [[Linux]学习笔记系列 -- [kernel][time]hrtimer](https://blog.csdn.net/qq_39665253/article/details/154112326)
 - Oct 29 - [Git紧急救援：如何用最快方法回退上万个文件修改？](https://blog.csdn.net/qq_39665253/article/details/154070487)
-- Oct 29 - [[Linux]学习笔记系列 --[kernel][time]clocksource](https://blog.csdn.net/qq_39665253/article/details/154061924)
-- Oct 29 - [[Linux]学习笔记系列 -- [kernel][time]clockevents](https://blog.csdn.net/qq_39665253/article/details/154061354)
-- Oct 28 - [RT-Thread FAL：为何NOR Flash必须注册为MTD设备？——深入解析RTOS设备模型](https://blog.csdn.net/qq_39665253/article/details/154017763)
-- Oct 28 - [[Linux]学习笔记系列 -- [kernel][time]alarmtimer](https://blog.csdn.net/qq_39665253/article/details/154006448)
 <!-- feed end -->
 
 </td></tr>
