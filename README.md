@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 31 - [Win11新版“Apple设备”应用无法识别iPhone？终极解决方案来了！](https://blog.csdn.net/qq_39665253/article/details/154184281)
 - Oct 30 - [小米AX3000T路由器多设备下载失速？一招固件升级彻底解决](https://blog.csdn.net/qq_39665253/article/details/154151306)
 - Oct 30 - [NVIDIA驱动更新“翻车”？解决RTX 2060在Bilibili客户端无法加载4K视频的终极指南*](https://blog.csdn.net/qq_39665253/article/details/154150235)
 - Oct 30 - [[Linux]学习笔记系列 -- [kernel][time]jiffies](https://blog.csdn.net/qq_39665253/article/details/154112479)
 - Oct 30 - [[Linux]学习笔记系列 -- [kernel][time]hrtimer](https://blog.csdn.net/qq_39665253/article/details/154112326)
-- Oct 29 - [Git紧急救援：如何用最快方法回退上万个文件修改？](https://blog.csdn.net/qq_39665253/article/details/154070487)
 <!-- feed end -->
 
 </td></tr>
