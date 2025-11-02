@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Oct 31 - [Win11新版“Apple设备”应用无法识别iPhone？终极解决方案来了！](https://blog.csdn.net/qq_39665253/article/details/154184281)
-- Oct 30 - [小米AX3000T路由器多设备下载失速？一招固件升级彻底解决](https://blog.csdn.net/qq_39665253/article/details/154151306)
-- Oct 30 - [NVIDIA驱动更新“翻车”？解决RTX 2060在Bilibili客户端无法加载4K视频的终极指南*](https://blog.csdn.net/qq_39665253/article/details/154150235)
-- Oct 30 - [[Linux]学习笔记系列 -- [kernel][time]jiffies](https://blog.csdn.net/qq_39665253/article/details/154112479)
-- Oct 30 - [[Linux]学习笔记系列 -- [kernel][time]hrtimer](https://blog.csdn.net/qq_39665253/article/details/154112326)
+- Nov 01 - [便携式功耗分析仪LuatOS IoT Power vs. Nordic PPK2](https://blog.csdn.net/qq_39665253/article/details/154243183)
+- Nov 01 - [NBM7100电池能量管理芯片及其驱动代码分享](https://blog.csdn.net/qq_39665253/article/details/154242908)
+- Nov 01 - [如何在GitHub仓库中添加MIT开源许可证](https://blog.csdn.net/qq_39665253/article/details/154241992)
+- Nov 01 - [GitHub侦探技巧：如何精确查找特定邮箱地址的所有代码提交(Commit)](https://blog.csdn.net/qq_39665253/article/details/154241896)
+- Nov 01 - [一个开源的CANopen转Modbus网关](https://blog.csdn.net/qq_39665253/article/details/154240314)
 <!-- feed end -->
 
 </td></tr>
