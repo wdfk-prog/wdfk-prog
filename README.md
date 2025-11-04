@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 03 - [[Linux]学习笔记系列 -- [kernel][time]tick](https://blog.csdn.net/qq_39665253/article/details/154334213)
+- Nov 03 - [[Linux]学习笔记系列 -- [kernel][time]sched_clock](https://blog.csdn.net/qq_39665253/article/details/154334104)
 - Nov 01 - [便携式功耗分析仪LuatOS IoT Power vs. Nordic PPK2](https://blog.csdn.net/qq_39665253/article/details/154243183)
 - Nov 01 - [NBM7100电池能量管理芯片及其驱动代码分享](https://blog.csdn.net/qq_39665253/article/details/154242908)
 - Nov 01 - [如何在GitHub仓库中添加MIT开源许可证](https://blog.csdn.net/qq_39665253/article/details/154241992)
-- Nov 01 - [GitHub侦探技巧：如何精确查找特定邮箱地址的所有代码提交(Commit)](https://blog.csdn.net/qq_39665253/article/details/154241896)
-- Nov 01 - [一个开源的CANopen转Modbus网关](https://blog.csdn.net/qq_39665253/article/details/154240314)
 <!-- feed end -->
 
 </td></tr>
