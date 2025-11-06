@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 05 - [[Linux]学习笔记系列 -- [kernel]async](https://blog.csdn.net/qq_39665253/article/details/154425848)
+- Nov 05 - [[Linux]学习笔记系列 -- [kernel][time]timer](https://blog.csdn.net/qq_39665253/article/details/154425756)
 - Nov 04 - [[Linux]学习笔记系列 -- [kernel][time]timekeeping](https://blog.csdn.net/qq_39665253/article/details/154383137)
 - Nov 04 - [[Linux]学习笔记系列 -- [kernel][time]time](https://blog.csdn.net/qq_39665253/article/details/154383107)
 - Nov 03 - [[Linux]学习笔记系列 -- [kernel][time]tick](https://blog.csdn.net/qq_39665253/article/details/154334213)
-- Nov 03 - [[Linux]学习笔记系列 -- [kernel][time]sched_clock](https://blog.csdn.net/qq_39665253/article/details/154334104)
-- Nov 01 - [便携式功耗分析仪LuatOS IoT Power vs. Nordic PPK2](https://blog.csdn.net/qq_39665253/article/details/154243183)
 <!-- feed end -->
 
 </td></tr>
