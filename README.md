@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 07 - [[Linux]学习笔记系列 -- [kernel]cpu](https://blog.csdn.net/qq_39665253/article/details/154525750)
+- Nov 07 - [[Linux]学习笔记系列 -- [kernel]completion](https://blog.csdn.net/qq_39665253/article/details/154525598)
 - Nov 06 - [[Linux]学习笔记系列 -- [kernel]bounds](https://blog.csdn.net/qq_39665253/article/details/154476723)
 - Nov 06 - [[RT-Thread]ULOG 创建多个文件后端并保存不同日志方法](https://blog.csdn.net/qq_39665253/article/details/154476557)
 - Nov 05 - [[Linux]学习笔记系列 -- [kernel]async](https://blog.csdn.net/qq_39665253/article/details/154425848)
-- Nov 05 - [[Linux]学习笔记系列 -- [kernel][time]timer](https://blog.csdn.net/qq_39665253/article/details/154425756)
-- Nov 04 - [[Linux]学习笔记系列 -- [kernel][time]timekeeping](https://blog.csdn.net/qq_39665253/article/details/154383137)
 <!-- feed end -->
 
 </td></tr>
