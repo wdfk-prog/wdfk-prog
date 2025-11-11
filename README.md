@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 10 - [PotPlayer采集结束后崩溃？罪魁祸首竟是你的安装路径！](https://blog.csdn.net/qq_39665253/article/details/154661161)
+- Nov 10 - [[Linux]学习笔记系列 -- [kernel]iomem](https://blog.csdn.net/qq_39665253/article/details/154635658)
+- Nov 10 - [[Linux]学习笔记系列 -- [kernel]fork](https://blog.csdn.net/qq_39665253/article/details/154635307)
 - Nov 08 - [[Linux]学习笔记系列 -- [kernel]exit](https://blog.csdn.net/qq_39665253/article/details/154562961)
 - Nov 08 - [[Linux]学习笔记系列 -- [kernel]cred](https://blog.csdn.net/qq_39665253/article/details/154562873)
-- Nov 07 - [[Linux]学习笔记系列 -- [kernel]cpu](https://blog.csdn.net/qq_39665253/article/details/154525750)
-- Nov 07 - [[Linux]学习笔记系列 -- [kernel]completion](https://blog.csdn.net/qq_39665253/article/details/154525598)
-- Nov 06 - [[Linux]学习笔记系列 -- [kernel]bounds](https://blog.csdn.net/qq_39665253/article/details/154476723)
 <!-- feed end -->
 
 </td></tr>
