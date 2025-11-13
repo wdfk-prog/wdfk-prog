@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 12 - [[Linux]学习笔记系列 -- [kernel]kthread](https://blog.csdn.net/qq_39665253/article/details/154724892)
+- Nov 12 - [[Linux]学习笔记系列 -- [kernel]ksysfs](https://blog.csdn.net/qq_39665253/article/details/154724632)
 - Nov 11 - [安全移除VMware虚拟机数据磁盘的终极指南](https://blog.csdn.net/qq_39665253/article/details/154695291)
 - Nov 11 - [Chrome书签图标“失踪”了？一招“同步大法”让它们全部回来！](https://blog.csdn.net/qq_39665253/article/details/154677333)
 - Nov 11 - [[Linux]学习笔记系列 -- [kernel]kallsyms](https://blog.csdn.net/qq_39665253/article/details/154677194)
-- Nov 10 - [PotPlayer采集结束后崩溃？罪魁祸首竟是你的安装路径！](https://blog.csdn.net/qq_39665253/article/details/154661161)
-- Nov 10 - [[Linux]学习笔记系列 -- [kernel]iomem](https://blog.csdn.net/qq_39665253/article/details/154635658)
 <!-- feed end -->
 
 </td></tr>
