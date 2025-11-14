@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 13 - [[Linux]学习笔记系列 -- [kernel]notifier](https://blog.csdn.net/qq_39665253/article/details/154770714)
+- Nov 13 - [[Linux]学习笔记系列 -- [kernel]memory_barrier](https://blog.csdn.net/qq_39665253/article/details/154769918)
 - Nov 12 - [[Linux]学习笔记系列 -- [kernel]kthread](https://blog.csdn.net/qq_39665253/article/details/154724892)
 - Nov 12 - [[Linux]学习笔记系列 -- [kernel]ksysfs](https://blog.csdn.net/qq_39665253/article/details/154724632)
 - Nov 11 - [安全移除VMware虚拟机数据磁盘的终极指南](https://blog.csdn.net/qq_39665253/article/details/154695291)
-- Nov 11 - [Chrome书签图标“失踪”了？一招“同步大法”让它们全部回来！](https://blog.csdn.net/qq_39665253/article/details/154677333)
-- Nov 11 - [[Linux]学习笔记系列 -- [kernel]kallsyms](https://blog.csdn.net/qq_39665253/article/details/154677194)
 <!-- feed end -->
 
 </td></tr>
