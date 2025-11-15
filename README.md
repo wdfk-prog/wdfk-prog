@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 14 - [Xshell终端连接Ubuntu/Debian无颜色的解决方案](https://blog.csdn.net/qq_39665253/article/details/154841309)
+- Nov 14 - [[Linux]学习笔记系列 -- [kernel[params](https://blog.csdn.net/qq_39665253/article/details/154824149)
+- Nov 14 - [[Linux]学习笔记系列 -- [kernel]nsproxy](https://blog.csdn.net/qq_39665253/article/details/154823646)
 - Nov 13 - [[Linux]学习笔记系列 -- [kernel]notifier](https://blog.csdn.net/qq_39665253/article/details/154770714)
 - Nov 13 - [[Linux]学习笔记系列 -- [kernel]memory_barrier](https://blog.csdn.net/qq_39665253/article/details/154769918)
-- Nov 12 - [[Linux]学习笔记系列 -- [kernel]kthread](https://blog.csdn.net/qq_39665253/article/details/154724892)
-- Nov 12 - [[Linux]学习笔记系列 -- [kernel]ksysfs](https://blog.csdn.net/qq_39665253/article/details/154724632)
-- Nov 11 - [安全移除VMware虚拟机数据磁盘的终极指南](https://blog.csdn.net/qq_39665253/article/details/154695291)
 <!-- feed end -->
 
 </td></tr>
