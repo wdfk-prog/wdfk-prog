@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 20 - [[Linux]学习笔记系列 -- [kernel]sys](https://blog.csdn.net/qq_39665253/article/details/155057275)
+- Nov 20 - [[Linux]学习笔记系列 -- [kernel]signal](https://blog.csdn.net/qq_39665253/article/details/155057060)
 - Nov 19 - [[Linux]学习笔记系列 -- [kernel]secomp](https://blog.csdn.net/qq_39665253/article/details/155012590)
 - Nov 19 - [[Linux]学习笔记系列 -- [kernel]resource](https://blog.csdn.net/qq_39665253/article/details/155012446)
 - Nov 18 - [[Linux]学习笔记系列 -- [kernel]reboot](https://blog.csdn.net/qq_39665253/article/details/154982592)
-- Nov 18 - [[Linux]学习笔记系列 -- [kernel]printk](https://blog.csdn.net/qq_39665253/article/details/154982543)
-- Nov 17 - [[Linux]学习笔记系列 -- [kernel]power](https://blog.csdn.net/qq_39665253/article/details/154936703)
 <!-- feed end -->
 
 </td></tr>
