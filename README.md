@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 22 - [[Linux]学习笔记系列 -- [kernel]utsname_sysctl](https://blog.csdn.net/qq_39665253/article/details/155127452)
+- Nov 22 - [[Linux]学习笔记系列 -- [kernel]usermode_helper](https://blog.csdn.net/qq_39665253/article/details/155127412)
 - Nov 21 - [[Linux]学习笔记系列 -- [kernel]trace](https://blog.csdn.net/qq_39665253/article/details/155092250)
 - Nov 21 - [[Linux]学习笔记系列 -- [kernel]sysctl](https://blog.csdn.net/qq_39665253/article/details/155092180)
 - Nov 20 - [[Linux]学习笔记系列 -- [kernel]sys](https://blog.csdn.net/qq_39665253/article/details/155057275)
-- Nov 20 - [[Linux]学习笔记系列 -- [kernel]signal](https://blog.csdn.net/qq_39665253/article/details/155057060)
-- Nov 19 - [[Linux]学习笔记系列 -- [kernel]secomp](https://blog.csdn.net/qq_39665253/article/details/155012590)
 <!-- feed end -->
 
 </td></tr>
