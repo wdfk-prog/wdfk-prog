@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 26 - [[Linux]学习笔记系列 -- [block]blk-ioc](https://blog.csdn.net/qq_39665253/article/details/155260882)
+- Nov 26 - [[Linux]学习笔记系列 -- [block]blk-core](https://blog.csdn.net/qq_39665253/article/details/155260825)
 - Nov 25 - [[Linux]学习笔记系列 -- [block]bio](https://blog.csdn.net/qq_39665253/article/details/155222419)
 - Nov 25 - [[Linux]学习笔记系列 -- [block]bfq-iosched](https://blog.csdn.net/qq_39665253/article/details/155222399)
 - Nov 24 - [[Linux]学习笔记系列 -- [kernel]workqueue](https://blog.csdn.net/qq_39665253/article/details/155185902)
-- Nov 24 - [[Linux]学习笔记系列 -- [kernel]wait](https://blog.csdn.net/qq_39665253/article/details/155185784)
-- Nov 22 - [[Linux]学习笔记系列 -- [kernel]utsname_sysctl](https://blog.csdn.net/qq_39665253/article/details/155127452)
 <!-- feed end -->
 
 </td></tr>
