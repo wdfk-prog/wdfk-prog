@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Dec 01 - [[Linux]学习笔记系列 -- [block][mq-deadline]](https://blog.csdn.net/qq_39665253/article/details/155440012)
+- Dec 01 - [[Linux]学习笔记系列 -- [block]kyber-iosched](https://blog.csdn.net/qq_39665253/article/details/155439890)
 - Nov 29 - [[Linux]学习笔记系列 -- [block]genhd](https://blog.csdn.net/qq_39665253/article/details/155376604)
 - Nov 29 - [[Linux]学习笔记系列 -- [block]fops](https://blog.csdn.net/qq_39665253/article/details/155376569)
 - Nov 28 - [[Linux]学习笔记系列 -- [block]elevator](https://blog.csdn.net/qq_39665253/article/details/155339950)
-- Nov 28 - [[Linux]学习笔记系列 -- [block]brd](https://blog.csdn.net/qq_39665253/article/details/155339897)
-- Nov 27 - [[Linux]学习笔记系列 -- [block]block](https://blog.csdn.net/qq_39665253/article/details/155299509)
 <!-- feed end -->
 
 </td></tr>
