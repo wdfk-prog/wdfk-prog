@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jan 06 - [[Linux]学习笔记系列 -- [fs]seq_file](https://blog.csdn.net/qq_39665253/article/details/156636833)
+- Jan 06 - [[Linux]学习笔记系列 -- [fs]read_write](https://blog.csdn.net/qq_39665253/article/details/156636759)
 - Jan 05 - [[Linux]学习笔记系列 -- [fs]ramfs](https://blog.csdn.net/qq_39665253/article/details/156589751)
 - Jan 05 - [[Linux]学习笔记系列 -- [fs][proc]](https://blog.csdn.net/qq_39665253/article/details/156589559)
 - Jan 02 - [[Linux]学习笔记系列 -- [fs]pipe](https://blog.csdn.net/qq_39665253/article/details/156518467)
-- Jan 02 - [[Linux]学习笔记系列 -- [fs]pidfs](https://blog.csdn.net/qq_39665253/article/details/156518426)
-- Jan 01 - [PotPlayer采集卡选麦克风会导致黑屏及音频修复方案](https://blog.csdn.net/qq_39665253/article/details/156490431)
 <!-- feed end -->
 
 </td></tr>
