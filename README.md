@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jan 08 - [[Linux]学习笔记系列 -- [fs]sysfs](https://blog.csdn.net/qq_39665253/article/details/156715451)
+- Jan 08 - [[Linux]学习笔记系列 -- [fs][sync]](https://blog.csdn.net/qq_39665253/article/details/156715140)
 - Jan 07 - [[Linux]学习笔记系列 -- [fs]super](https://blog.csdn.net/qq_39665253/article/details/156674481)
 - Jan 07 - [[Linux]学习笔记系列 -- [fs]stat](https://blog.csdn.net/qq_39665253/article/details/156674265)
 - Jan 06 - [[Linux]学习笔记系列 -- [fs]seq_file](https://blog.csdn.net/qq_39665253/article/details/156636833)
-- Jan 06 - [[Linux]学习笔记系列 -- [fs]read_write](https://blog.csdn.net/qq_39665253/article/details/156636759)
-- Jan 05 - [[Linux]学习笔记系列 -- [fs]ramfs](https://blog.csdn.net/qq_39665253/article/details/156589751)
 <!-- feed end -->
 
 </td></tr>
