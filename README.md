@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jan 11 - [[Linux]学习笔记系列 -- 内核支持与数据](https://blog.csdn.net/qq_39665253/article/details/156820397)
+- Jan 11 - [[Linux]学习笔记系列 -- 内存管理与访问](https://blog.csdn.net/qq_39665253/article/details/156820293)
 - Jan 09 - [[Linux]学习笔记系列 -- 底层CPU与体系结构宏](https://blog.csdn.net/qq_39665253/article/details/156747166)
 - Jan 09 - [[Linux]学习笔记系列 -- 代码补丁](https://blog.csdn.net/qq_39665253/article/details/156746463)
 - Jan 08 - [[Linux]学习笔记系列 -- [fs]sysfs](https://blog.csdn.net/qq_39665253/article/details/156715451)
-- Jan 08 - [[Linux]学习笔记系列 -- [fs][sync]](https://blog.csdn.net/qq_39665253/article/details/156715140)
-- Jan 07 - [[Linux]学习笔记系列 -- [fs]super](https://blog.csdn.net/qq_39665253/article/details/156674481)
 <!-- feed end -->
 
 </td></tr>
