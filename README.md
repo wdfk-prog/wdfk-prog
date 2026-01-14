@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jan 13 - [[Linux]学习笔记系列 -- bits](https://blog.csdn.net/qq_39665253/article/details/156884393)
+- Jan 13 - [[Linux]学习笔记系列 -- atomic](https://blog.csdn.net/qq_39665253/article/details/156884174)
 - Jan 12 - [WIN11如何可以安装ISO](https://blog.csdn.net/qq_39665253/article/details/156869732)
 - Jan 12 - [[Linux]学习笔记系列 -- 通用数学与位操作宏](https://blog.csdn.net/qq_39665253/article/details/156846693)
 - Jan 12 - [[Linux]学习笔记系列 -- 通用工具与错误处理宏](https://blog.csdn.net/qq_39665253/article/details/156846472)
-- Jan 11 - [[Linux]学习笔记系列 -- 内核支持与数据](https://blog.csdn.net/qq_39665253/article/details/156820397)
-- Jan 11 - [[Linux]学习笔记系列 -- 内存管理与访问](https://blog.csdn.net/qq_39665253/article/details/156820293)
 <!-- feed end -->
 
 </td></tr>
