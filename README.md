@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jan 24 - [Git文件状态显示异常的解决方案](https://blog.csdn.net/qq_39665253/article/details/157329957)
+- Jan 24 - [[Linux]学习笔记系列 -- [drivers][bus]](https://blog.csdn.net/qq_39665253/article/details/157329475)
 - Jan 23 - [[Linux]学习笔记系列 -- [drivers][base]topology](https://blog.csdn.net/qq_39665253/article/details/157281898)
 - Jan 23 - [[Linux]学习笔记系列 -- [drivers][base]syscore](https://blog.csdn.net/qq_39665253/article/details/157281590)
 - Jan 22 - [[Linux]学习笔记系列 -- [drivers][base]regmap](https://blog.csdn.net/qq_39665253/article/details/157244371)
-- Jan 22 - [[Linux]学习笔记系列 -- [drivers][base]platform](https://blog.csdn.net/qq_39665253/article/details/157244292)
-- Jan 21 - [[Linux]学习笔记系列 --[drivers][base]map](https://blog.csdn.net/qq_39665253/article/details/157203331)
 <!-- feed end -->
 
 </td></tr>
