@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 448kb of code in 273 edited files across 174 commits</small>
+                <small>estimation from 457kb of code in 288 edited files across 178 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.78469019271336" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="317.78469019271336" y="0" width="136.4370076394103" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="454.2216978321237" y="0" width="5.7783021678763395" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.86894486524574" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="319.86894486524574" y="0" width="134.43743761376314" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="454.30638247900885" y="0" width="5.6936175209911335" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 C
                             </div>
                             <small>
-                                <div>1.85k lines</div>
-                                <div>57.9 kB</div>
+                                <div>1.89k lines</div>
+                                <div>59.2 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
