@@ -61,10 +61,10 @@
 
 <!-- feed start -->
 - Jan 28 - [[Linux]学习笔记系列 -- [drivers][dma]coherent](https://blog.csdn.net/qq_39665253/article/details/157463800)
+- Jan 28 - [[Linux]学习笔记系列 -- [drivers][clk]clk](https://blog.csdn.net/qq_39665253/article/details/157463795)
 - Jan 26 - [[Linux]学习笔记系列 -- [drivers][clk]clk-bulk](https://blog.csdn.net/qq_39665253/article/details/157384716)
 - Jan 26 - [[Linux]学习笔记系列 -- [drivers][bus]simple-pm-bus](https://blog.csdn.net/qq_39665253/article/details/157384696)
 - Jan 24 - [Git文件状态显示异常的解决方案](https://blog.csdn.net/qq_39665253/article/details/157329957)
-- Jan 24 - [[Linux]学习笔记系列 -- [drivers][bus]](https://blog.csdn.net/qq_39665253/article/details/157329475)
 <!-- feed end -->
 
 </td></tr>
