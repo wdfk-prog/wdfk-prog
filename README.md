@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jan 30 - [[Linux]学习笔记系列 -- [drivers[dma]dmaengine](https://blog.csdn.net/qq_39665253/article/details/157541295)
+- Jan 30 - [[Linux]学习笔记系列 -- [drivers][dma]dma](https://blog.csdn.net/qq_39665253/article/details/157541290)
 - Jan 29 - [[Linux]学习笔记系列 -- [drivers][dma]dma-buf](https://blog.csdn.net/qq_39665253/article/details/157502488)
 - Jan 28 - [[Linux]学习笔记系列 -- [drivers][dma]coherent](https://blog.csdn.net/qq_39665253/article/details/157463800)
 - Jan 28 - [[Linux]学习笔记系列 -- [drivers][clk]clk](https://blog.csdn.net/qq_39665253/article/details/157463795)
-- Jan 26 - [[Linux]学习笔记系列 -- [drivers][clk]clk-bulk](https://blog.csdn.net/qq_39665253/article/details/157384716)
-- Jan 26 - [[Linux]学习笔记系列 -- [drivers][bus]simple-pm-bus](https://blog.csdn.net/qq_39665253/article/details/157384696)
 <!-- feed end -->
 
 </td></tr>
