@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jan 30 - [[Linux]学习笔记系列 -- [drivers[dma]dmaengine](https://blog.csdn.net/qq_39665253/article/details/157541295)
-- Jan 30 - [[Linux]学习笔记系列 -- [drivers][dma]dma](https://blog.csdn.net/qq_39665253/article/details/157541290)
-- Jan 29 - [[Linux]学习笔记系列 -- [drivers][dma]dma-buf](https://blog.csdn.net/qq_39665253/article/details/157502488)
-- Jan 28 - [[Linux]学习笔记系列 -- [drivers][dma]coherent](https://blog.csdn.net/qq_39665253/article/details/157463800)
-- Jan 28 - [[Linux]学习笔记系列 -- [drivers][clk]clk](https://blog.csdn.net/qq_39665253/article/details/157463795)
+- Feb 01 - [解决 `git cherry-pick` 引入大量新文件的问题](https://blog.csdn.net/qq_39665253/article/details/157615583)
+- Feb 01 - [[Linux]学习笔记系列 -- [drivers][I2C]busses](https://blog.csdn.net/qq_39665253/article/details/157612275)
+- Feb 01 - [[Linux]学习笔记系列 -- [drivers][gpio[[gpiolib]](https://blog.csdn.net/qq_39665253/article/details/157612242)
+- Feb 01 - [[Linux]学习笔记系列 -- [drivers][gpio]gpio](https://blog.csdn.net/qq_39665253/article/details/157612216)
+- Feb 01 - [[Linux]学习笔记系列 -- [drivers][dma]stm32-dma](https://blog.csdn.net/qq_39665253/article/details/157612191)
 <!-- feed end -->
 
 </td></tr>
