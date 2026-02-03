@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Feb 02 - [[Linux]学习笔记系列 -- [drivers][i2c]i2c-dev](https://blog.csdn.net/qq_39665253/article/details/157643393)
+- Feb 02 - [[Linux]学习笔记系列 -- [drivers][I2C]I2C](https://blog.csdn.net/qq_39665253/article/details/157643382)
 - Feb 01 - [解决 `git cherry-pick` 引入大量新文件的问题](https://blog.csdn.net/qq_39665253/article/details/157615583)
 - Feb 01 - [[Linux]学习笔记系列 -- [drivers][I2C]busses](https://blog.csdn.net/qq_39665253/article/details/157612275)
 - Feb 01 - [[Linux]学习笔记系列 -- [drivers][gpio[[gpiolib]](https://blog.csdn.net/qq_39665253/article/details/157612242)
-- Feb 01 - [[Linux]学习笔记系列 -- [drivers][gpio]gpio](https://blog.csdn.net/qq_39665253/article/details/157612216)
-- Feb 01 - [[Linux]学习笔记系列 -- [drivers][dma]stm32-dma](https://blog.csdn.net/qq_39665253/article/details/157612191)
 <!-- feed end -->
 
 </td></tr>
