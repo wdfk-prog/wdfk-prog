@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Feb 05 - [[Linux]学习笔记系列 -- [drivers][mmc][mmc_sdio]](https://blog.csdn.net/qq_39665253/article/details/157761983)
+- Feb 05 - [[Linux]学习笔记系列 -- [drivers][mmc]mmc_sd](https://blog.csdn.net/qq_39665253/article/details/157761953)
 - Feb 04 - [[Linux]学习笔记系列 --[drivers]mmc]mmc](https://blog.csdn.net/qq_39665253/article/details/157725513)
 - Feb 04 - [[Linux]学习笔记系列 -- [drivers][input]serio](https://blog.csdn.net/qq_39665253/article/details/157725456)
 - Feb 03 - [[Linux]学习笔记系列 -- [drivers][input]input](https://blog.csdn.net/qq_39665253/article/details/157684028)
-- Feb 03 - [[Linux]学习笔记系列 -- [drivers]I2C]i2c-smbus](https://blog.csdn.net/qq_39665253/article/details/157684010)
-- Feb 02 - [[Linux]学习笔记系列 -- [drivers][i2c]i2c-dev](https://blog.csdn.net/qq_39665253/article/details/157643393)
 <!-- feed end -->
 
 </td></tr>
