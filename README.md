@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Feb 07 - [[Linux]学习笔记系列 -- [drivers][tty]sysrq](https://blog.csdn.net/qq_39665253/article/details/157841910)
+- Feb 07 - [[Linux]学习笔记系列 -- [drivers][tty]stm32-usart](https://blog.csdn.net/qq_39665253/article/details/157841837)
 - Feb 06 - [[Linux]学习笔记系列 -- [drivers][tty]serial](https://blog.csdn.net/qq_39665253/article/details/157801426)
 - Feb 06 - [[Linux]学习笔记系列 -- [drivers][tty][serial_core]](https://blog.csdn.net/qq_39665253/article/details/157801365)
 - Feb 05 - [[Linux]学习笔记系列 -- [drivers][mmc][mmc_sdio]](https://blog.csdn.net/qq_39665253/article/details/157761983)
-- Feb 05 - [[Linux]学习笔记系列 -- [drivers][mmc]mmc_sd](https://blog.csdn.net/qq_39665253/article/details/157761953)
-- Feb 04 - [[Linux]学习笔记系列 --[drivers]mmc]mmc](https://blog.csdn.net/qq_39665253/article/details/157725513)
 <!-- feed end -->
 
 </td></tr>
