@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Feb 12 - [EWMA 指数加权移动平均](https://blog.csdn.net/qq_39665253/article/details/158006346)
+- Feb 12 - [[Linux]学习笔记系列 -- [drivers]char](https://blog.csdn.net/qq_39665253/article/details/157992694)
+- Feb 12 - [修复 VS Code Remote-SSH 连接超时：启用 PTY 分配](https://blog.csdn.net/qq_39665253/article/details/157992659)
 - Feb 11 - [[Linux]学习笔记系列 -- [drviers]amba](https://blog.csdn.net/qq_39665253/article/details/157969494)
 - Feb 11 - [游戏后台 CPU 占用高与全屏切换最小化问题排查指南](https://blog.csdn.net/qq_39665253/article/details/157969372)
-- Feb 10 - [VS Code Codex 登录失败（1455 端口占用）处理说明](https://blog.csdn.net/qq_39665253/article/details/157939257)
-- Feb 10 - [[Linux]学习笔记系列 -- [drivers][tty]tty](https://blog.csdn.net/qq_39665253/article/details/157935149)
-- Feb 10 - [分卷压缩包损坏排查指南](https://blog.csdn.net/qq_39665253/article/details/157934289)
 <!-- feed end -->
 
 </td></tr>
