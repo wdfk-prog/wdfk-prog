@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Mar 03 - [[Linux]学习笔记系列 -- [drviers]iio](https://blog.csdn.net/qq_39665253/article/details/158609164)
+- Mar 03 - [[Linux]学习笔记系列 -- [drivers][dma-buf]](https://blog.csdn.net/qq_39665253/article/details/158609118)
 - Mar 02 - [[Linux]学习笔记系列 -- [drviers]clocksource](https://blog.csdn.net/qq_39665253/article/details/158572196)
 - Mar 02 - [将隐藏在副屏的 Windows 11 程序窗口恢复到主屏](https://blog.csdn.net/qq_39665253/article/details/158571731)
 - Feb 13 - [DXGI_ERROR_DEVICE_HUNG 的处理指南](https://blog.csdn.net/qq_39665253/article/details/158036029)
-- Feb 13 - [EWMA、加权平均与一次低通滤波的对比与选型](https://blog.csdn.net/qq_39665253/article/details/158035855)
-- Feb 12 - [EWMA 指数加权移动平均](https://blog.csdn.net/qq_39665253/article/details/158006346)
 <!-- feed end -->
 
 </td></tr>
