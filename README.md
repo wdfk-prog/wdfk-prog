@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Mar 17 - [Qboot V2：让 Bootloader 从“能升级”走向“可持续演进”](https://blog.csdn.net/qq_39665253/article/details/159156147)
 - Mar 12 - [[Linux]学习笔记系列 -- [drivers][mmc]mmci](https://blog.csdn.net/qq_39665253/article/details/158964275)
 - Mar 11 - [黄金比例乘法哈希与哈希表大小设计原理](https://blog.csdn.net/qq_39665253/article/details/158922494)
 - Mar 07 - [常用 Git 撤销与清理命令速查](https://blog.csdn.net/qq_39665253/article/details/158769032)
 - Mar 07 - [[Linux]学习笔记系列 -- [drivers]reset](https://blog.csdn.net/qq_39665253/article/details/158768558)
-- Mar 07 - [[Linux]学习笔记系列 -- [drivers]regulator](https://blog.csdn.net/qq_39665253/article/details/158768470)
 <!-- feed end -->
 
 </td></tr>
