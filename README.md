@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Apr 01 - [MCU内核电压不稳导致程序跑飞的现象、原因与影响](https://blog.csdn.net/qq_39665253/article/details/159731710)
 - Mar 30 - [FNV-1a 64-bit 在 MCU-32bit 上的实现与取舍：从原理、代码到适用边界](https://blog.csdn.net/qq_39665253/article/details/159633292)
 - Mar 25 - [在 VSCode 中使用 MSYS2 MinGW64 终端的最终方案总结](https://blog.csdn.net/qq_39665253/article/details/159462132)
 - Mar 21 - [一次由 C 位域非原子写入引发的状态上报异常](https://blog.csdn.net/qq_39665253/article/details/159314909)
 - Mar 19 - [MAX14830 可移植 C 驱动实现分析：一个适合多串口扩展场景的开源基础版本](https://blog.csdn.net/qq_39665253/article/details/159240752)
-- Mar 19 - [M104BPCSX-5024 RFID 驱动与应用层开源实现分析](https://blog.csdn.net/qq_39665253/article/details/159240279)
 <!-- feed end -->
 
 </td></tr>
