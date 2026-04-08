@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Apr 07 - [解决 Linux 使用符号链接的 Git 仓库在 Windows 下无法创建符号链接的问题](https://blog.csdn.net/qq_39665253/article/details/159904890)
 - Apr 05 - [GCC 的 `-O0`、`-Og` 与发布版调试说明](https://blog.csdn.net/qq_39665253/article/details/159857823)
 - Apr 02 - [别把“语法整洁”包装成“工程进步”：C23 这次对 bool 的改动，给的是麻烦，不是价值](https://blog.csdn.net/qq_39665253/article/details/159762627)
 - Apr 01 - [MCU内核电压不稳导致程序跑飞的现象、原因与影响](https://blog.csdn.net/qq_39665253/article/details/159731710)
 - Mar 30 - [FNV-1a 64-bit 在 MCU-32bit 上的实现与取舍：从原理、代码到适用边界](https://blog.csdn.net/qq_39665253/article/details/159633292)
-- Mar 25 - [在 VSCode 中使用 MSYS2 MinGW64 终端的最终方案总结](https://blog.csdn.net/qq_39665253/article/details/159462132)
 <!-- feed end -->
 
 </td></tr>
