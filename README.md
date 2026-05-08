@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- May 07 - [正常关闭虚拟机时，不要点“关机”，而要点“关闭客户机”](https://blog.csdn.net/qq_39665253/article/details/160859880)
+- May 07 - [GitHub 开源项目可以用哪些免费的 AI 代码审核工具？CodeRabbit、Qodo OSS、LlamaPReview 怎么选](https://blog.csdn.net/qq_39665253/article/details/160851250)
 - Apr 25 - [Multi-Pass Review 还不够：为什么还需要专项 Profile 和 Fresh Diff Scope](https://blog.csdn.net/qq_39665253/article/details/160497254)
 - Apr 25 - [为什么需要一个 Multi-Pass Review Skill：让大模型代码审核从“会说”变成“可控”](https://blog.csdn.net/qq_39665253/article/details/160497090)
 - Apr 07 - [解决 Linux 使用符号链接的 Git 仓库在 Windows 下无法创建符号链接的问题](https://blog.csdn.net/qq_39665253/article/details/159904890)
-- Apr 05 - [GCC 的 `-O0`、`-Og` 与发布版调试说明](https://blog.csdn.net/qq_39665253/article/details/159857823)
-- Apr 02 - [别把“语法整洁”包装成“工程进步”：C23 这次对 bool 的改动，给的是麻烦，不是价值](https://blog.csdn.net/qq_39665253/article/details/159762627)
 <!-- feed end -->
 
 </td></tr>
