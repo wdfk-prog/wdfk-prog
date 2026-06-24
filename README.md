@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jun 23 - [autogen_parameter_manager：面向固件产品参数的生成式管理软件包](https://blog.csdn.net/qq_39665253/article/details/162222802)
 - Jun 17 - [嵌入式新项目与重构中使用 AI 辅助实现的真正风险：不是 AI 越界，而是工程师逐渐把方向盘交出去](https://blog.csdn.net/qq_39665253/article/details/162071237)
 - Jun 17 - [面向 MCU 与 RTOS 的 Newlib、Newlib-nano、`--specs=nano.specs` 与 `_REENT_SMALL` 说明](https://blog.csdn.net/qq_39665253/article/details/162069167)
 - May 19 - [联网搜索会污染大模型判断吗？——面向日常开发场景的工程化分析](https://blog.csdn.net/qq_39665253/article/details/161228611)
 - May 07 - [正常关闭虚拟机时，不要点“关机”，而要点“关闭客户机”](https://blog.csdn.net/qq_39665253/article/details/160859880)
-- May 07 - [GitHub 开源项目可以用哪些免费的 AI 代码审核工具？CodeRabbit、Qodo OSS、LlamaPReview 怎么选](https://blog.csdn.net/qq_39665253/article/details/160851250)
 <!-- feed end -->
 
 </td></tr>
