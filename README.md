@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jun 25 - [Lely CANopen configure 配置项与日志解读](https://blog.csdn.net/qq_39665253/article/details/162309520)
+- Jun 25 - [Lely CANopen 入门：从协议背景到 i.MX8P 交叉编译安装](https://blog.csdn.net/qq_39665253/article/details/162307921)
+- Jun 25 - [从 `autoreconf -i` 看懂 Autoconf：以 Lely CANopen 交叉编译为例](https://blog.csdn.net/qq_39665253/article/details/162308334)
 - Jun 24 - [RPC 是什么：原理、边界与工业/嵌入式通信中的适用场景](https://blog.csdn.net/qq_39665253/article/details/162264040)
 - Jun 23 - [autogen_parameter_manager：面向固件产品参数的生成式管理软件包](https://blog.csdn.net/qq_39665253/article/details/162222802)
-- Jun 17 - [嵌入式新项目与重构中使用 AI 辅助实现的真正风险：不是 AI 越界，而是工程师逐渐把方向盘交出去](https://blog.csdn.net/qq_39665253/article/details/162071237)
-- Jun 17 - [面向 MCU 与 RTOS 的 Newlib、Newlib-nano、`--specs=nano.specs` 与 `_REENT_SMALL` 说明](https://blog.csdn.net/qq_39665253/article/details/162069167)
-- May 19 - [联网搜索会污染大模型判断吗？——面向日常开发场景的工程化分析](https://blog.csdn.net/qq_39665253/article/details/161228611)
 <!-- feed end -->
 
 </td></tr>
