@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jun 28 - [CANopen Emergency： 搞懂 EM 运行流程](https://blog.csdn.net/qq_39665253/article/details/162393822)
+- Jun 28 - [CiA 303-3：CANopenNode 如何计算 RUN / ERROR 指示灯](https://blog.csdn.net/qq_39665253/article/details/162385497)
+- Jun 28 - [CANopenNode LSS运行流程](https://blog.csdn.net/qq_39665253/article/details/162384823)
+- Jun 28 - [CANopenNode `CO_new()` 与 `CO_config.h` 宏机制详解](https://blog.csdn.net/qq_39665253/article/details/162384047)
 - Jun 26 - [从 Node-ID 到线长：读懂 CAN/CANopen 网络拓扑限制](https://blog.csdn.net/qq_39665253/article/details/162339622)
-- Jun 26 - [Lely CANopen 交叉构建说明](https://blog.csdn.net/qq_39665253/article/details/162310305)
-- Jun 25 - [Lely CANopen configure 配置项与日志解读](https://blog.csdn.net/qq_39665253/article/details/162309520)
-- Jun 25 - [Lely CANopen 入门：从协议背景到 i.MX8P 交叉编译安装](https://blog.csdn.net/qq_39665253/article/details/162307921)
-- Jun 25 - [从 `autoreconf -i` 看懂 Autoconf：以 Lely CANopen 交叉编译为例](https://blog.csdn.net/qq_39665253/article/details/162308334)
 <!-- feed end -->
 
 </td></tr>
