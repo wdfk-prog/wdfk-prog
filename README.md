@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jul 13 - [嵌入式面试真题第 07 题：电源纹波影响 ADC 电量采样的软件滤波](https://blog.csdn.net/qq_39665253/article/details/162827349)
 - Jul 10 - [嵌入式面试真题第 06 题：I2C SDA 被拉低死锁后的软件恢复](https://blog.csdn.net/qq_39665253/article/details/162764399)
 - Jul 10 - [嵌入式面试真题第 5 题：高温下 SPI 读取 Sensor 偶发乱码定位](https://blog.csdn.net/qq_39665253/article/details/162754181)
 - Jul 07 - [嵌入式面试真题第 04 题：资源受限设备中的低功耗短时事件识别架构](https://blog.csdn.net/qq_39665253/article/details/162653753)
 - Jul 06 - [嵌入式面试真题第 03 题：固定周期后台事件导致实时链路瞬态扰动的定位与自动化测试](https://blog.csdn.net/qq_39665253/article/details/162621994)
-- Jul 06 - [嵌入式面试真题第 02 题：多源信号时间戳偏差的补偿与重同步架构](https://blog.csdn.net/qq_39665253/article/details/162621503)
 <!-- feed end -->
 
 </td></tr>
