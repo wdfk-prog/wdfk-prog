@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jul 15 - [嵌入式面试真题第 11 题：RTOS 优先级翻转与实时任务阻塞的通用治理](https://blog.csdn.net/qq_39665253/article/details/162894076)
 - Jul 14 - [嵌入式面试真题第 10 题：高优化等级下共享状态可见性、内存模型与系统级同步设计](https://blog.csdn.net/qq_39665253/article/details/162859588)
 - Jul 13 - [嵌入式面试真题第 09 题：非易失性存储局部失效下的通用持久化容错架构设计](https://blog.csdn.net/qq_39665253/article/details/162840848)
 - Jul 13 - [嵌入式面试真题第 08 题：多中断源竞争下关键实时事件丢失的系统化诊断与中断架构设计](https://blog.csdn.net/qq_39665253/article/details/162834614)
 - Jul 13 - [嵌入式面试真题第 07 题：电源纹波影响 ADC 电量采样的软件滤波](https://blog.csdn.net/qq_39665253/article/details/162827349)
-- Jul 10 - [嵌入式面试真题第 06 题：I2C SDA 被拉低死锁后的软件恢复](https://blog.csdn.net/qq_39665253/article/details/162764399)
 <!-- feed end -->
 
 </td></tr>
