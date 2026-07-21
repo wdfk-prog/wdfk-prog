@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jul 21 - [嵌入式面试真题第 12 题：资源受限长期运行系统的确定性内存管理与内存池架构设计](https://blog.csdn.net/qq_39665253/article/details/163065591)
 - Jul 16 - [用 POSIX Signal 唤醒 epoll 事件循环：原理、逐行解析与实践](https://blog.csdn.net/qq_39665253/article/details/162938352)
 - Jul 16 - [Linux/glibc 中 errno 的原理、线程隔离与实现路径](https://blog.csdn.net/qq_39665253/article/details/162936476)
 - Jul 15 - [Lely `dcf-tools` 与 `master.yml` 配置教程：从 EDS 生成可用的主站 DCF](https://blog.csdn.net/qq_39665253/article/details/162908568)
 - Jul 15 - [Lely canopen：用 EDS 和 `master.yml` 生成 CANopen 主站 DCF](https://blog.csdn.net/qq_39665253/article/details/162899876)
-- Jul 15 - [嵌入式面试真题第 11 题：RTOS 优先级翻转与实时任务阻塞的通用治理](https://blog.csdn.net/qq_39665253/article/details/162894076)
 <!-- feed end -->
 
 </td></tr>
