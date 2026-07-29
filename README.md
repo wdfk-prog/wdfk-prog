@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Jul 28 - [Lely CANopen 事件调度机制详解：从 `ev_task`、Executor、`std_exec` 到 `ev_loop`、Future 与 Poll](https://blog.csdn.net/qq_39665253/article/details/163276699)
+- Jul 28 - [Lely CANopen Future/Promise 机制原理与源码详解](https://blog.csdn.net/qq_39665253/article/details/163275312)
+- Jul 28 - [Lely CANopen `ev_loop` 详解](https://blog.csdn.net/qq_39665253/article/details/163273273)
 - Jul 28 - [Lely canopen`io_poll` 机制原理与完整运行流程详解](https://blog.csdn.net/qq_39665253/article/details/163262876)
 - Jul 27 - [Lely CANopen ：I/O 服务 io_ctx](https://blog.csdn.net/qq_39665253/article/details/163245787)
-- Jul 27 - [Lely CANopen: Timer 的实现原理与运行流程](https://blog.csdn.net/qq_39665253/article/details/163243678)
-- Jul 25 - [VS Code + GDB 远程调试中的系统库边界、跳过策略与反汇编排查](https://blog.csdn.net/qq_39665253/article/details/163195495)
-- Jul 25 - [VS Code Remote GDB 调试动态库源码断点灰色：问题分析与解决方案](https://blog.csdn.net/qq_39665253/article/details/163185065)
 <!-- feed end -->
 
 </td></tr>
