@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jul 30 - [Lely CANopen：co_dev 设备对象字典与 EDS/DCF 解析、concise DCF 和 PDO 事件机制](https://blog.csdn.net/qq_39665253/article/details/163309954)
-- Jul 30 - [Lely CANopen：io_tqueue 与 pheap 的实现原理、运行流程](https://blog.csdn.net/qq_39665253/article/details/163302684)
-- Jul 29 - [Lely CANopen `spscring` 单生产者单消费者环形队列完整机制学习笔记](https://blog.csdn.net/qq_39665253/article/details/163294400)
-- Jul 29 - [Lely CANopen CAN 完整机制学习笔记](https://blog.csdn.net/qq_39665253/article/details/163292490)
-- Jul 28 - [Lely CANopen 事件调度机制详解：从 `ev_task`、Executor、`std_exec` 到 `ev_loop`、Future 与 Poll](https://blog.csdn.net/qq_39665253/article/details/163276699)
+- Jul 31 - [Lely CANopen：co_obj 与 co_sub 对象字典节点的结构、内存布局和 SDO/PDO 读写机制](https://blog.csdn.net/qq_39665253/article/details/163308476)
+- Jul 31 - [Lely CANopen：can_net、io_can_net设计原理](https://blog.csdn.net/qq_39665253/article/details/163304233)
+- Jul 31 - [MCU学习笔记系列](https://blog.csdn.net/qq_39665253/article/details/163369215)
+- Jul 31 - [git学习笔记系列](https://blog.csdn.net/qq_39665253/article/details/163369066)
+- Jul 31 - [canopen学习笔记系列](https://blog.csdn.net/qq_39665253/article/details/163369023)
 <!-- feed end -->
 
 </td></tr>
