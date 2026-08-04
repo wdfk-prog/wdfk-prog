@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 03 - [Lely CANopen NMT Boot Slave：从 `nmt_boot.c` 看主站如何识别、配置并启动从站](https://blog.csdn.net/qq_39665253/article/details/163359111)
+- Aug 03 - [Lely CANopen：CSDO/SSDO 客户端服务器 SDO 状态机、分段与块传输机制](https://blog.csdn.net/qq_39665253/article/details/163337815)
 - Aug 02 - [Lely CANopen：RPDO/TPDO 运行期收发、SYNC、事件与定时器机制原理和运行流程](https://blog.csdn.net/qq_39665253/article/details/163335944)
 - Aug 02 - [Lely CANopen `coapp::Device`：本地 SDO/PDO 读写、远程对象映射与运行机制](https://blog.csdn.net/qq_39665253/article/details/163327025)
 - Aug 01 - [Lely CANopen SYNC、TIME 与 EMCY学习](https://blog.csdn.net/qq_39665253/article/details/163368969)
-- Aug 01 - [Lely CANopen：co_sdo_req 请求缓冲、PDO 映射编解码与对象字典访问桥接机制](https://blog.csdn.net/qq_39665253/article/details/163323721)
-- Jul 31 - [Lely CANopen：co_obj 与 co_sub 对象字典节点的结构、内存布局和 SDO/PDO 读写机制](https://blog.csdn.net/qq_39665253/article/details/163308476)
 <!-- feed end -->
 
 </td></tr>
