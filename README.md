@@ -60,11 +60,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 06 - [Lely CANopen coapp Driver](https://blog.csdn.net/qq_39665253/article/details/163436694)
+- Aug 06 - [CANopen MPDO：动态对象寻址](https://blog.csdn.net/qq_39665253/article/details/163429296)
 - Aug 05 - [Lely CANopen `coapp::Node`：CAN 网络、NMT 服务与 C++ 事件回调的装配机制](https://blog.csdn.net/qq_39665253/article/details/163395125)
 - Aug 05 - [Lely CANopen `co_nmt_t`：主从 NMT 总控机制、状态机与运行流程](https://blog.csdn.net/qq_39665253/article/details/163389087)
 - Aug 04 - [Lely CANopen `coapp::Master`：NMT 总控、SDO 仲裁与 Driver 事件分发机制](https://blog.csdn.net/qq_39665253/article/details/163432203)
-- Aug 04 - [Lely CANopen LSS：主从状态机、Fastscan 与配置流程](https://blog.csdn.net/qq_39665253/article/details/163369967)
-- Aug 04 - [Lely CANopen NMT Heartbeat、srv与cfg 机制源码学习](https://blog.csdn.net/qq_39665253/article/details/163366815)
 <!-- feed end -->
 
 </td></tr>
