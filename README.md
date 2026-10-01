@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 30 - [Wi-Fi Direct 教程 06：P2P_FIND 进入 P2P Core——Social Channels、P2P_SEARCH 与第一轮扫描决策](https://blog.csdn.net/qq_39665253/article/details/166843717)
+- Sep 30 - [Wi-Fi Direct 教程 05：control socket 与 eloop——P2P_FIND 怎样进入 wpa_supplicant 命令解析器](https://blog.csdn.net/qq_39665253/article/details/166843690)
 - Sep 29 - [Wi-Fi Direct 教程 04：Interface 协议子系统初始化——WPA/EAPOL、WPS、DPP/NAN、GAS 与 P2P callback](https://blog.csdn.net/qq_39665253/article/details/166843671)
 - Sep 29 - [Wi-Fi Direct 教程 03：wpa_supplicant 启动到 driver 就绪——main、Interface 对象与 nl80211 backend](https://blog.csdn.net/qq_39665253/article/details/166843658)
 - Sep 29 - [docker学习笔记系列](https://blog.csdn.net/qq_39665253/article/details/166843862)
-- Sep 29 - [Wi-Fi Direct Source Lab系列](https://blog.csdn.net/qq_39665253/article/details/166843786)
-- Sep 29 - [Wi-Fi Direct教程 02：从 wpa_cli main() 到 P2P_FIND——用源码注释追踪 CLI 控制命令发送](https://blog.csdn.net/qq_39665253/article/details/166843629)
 <!-- feed end -->
 
 </td></tr>
