@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 05 - [Wi-Fi Direct 源码分析（15）：Group 建立后的真实数据面——Socket、mac80211、hwsim 与 802.11 Data Frame TX/RX](https://blog.csdn.net/qq_39665253/article/details/166845031)
 - Oct 04 - [Wi-Fi Direct 源码分析（14）：控制面进入 Linux 内核后发生了什么——nl80211、cfg80211、mac80211 与管理帧 TX/RX](https://blog.csdn.net/qq_39665253/article/details/166844892)
 - Oct 04 - [Wi-Fi Direct 源码分析（13）：Persistent Group 如何再次建立——P2P_INVITE、Invitation 与 Reinvocation](https://blog.csdn.net/qq_39665253/article/details/166844060)
 - Oct 03 - [Wi-Fi Direct 源码分析（12）：P2P Group 如何结束——P2P_GROUP_REMOVE、资源释放与 P2P-GROUP-REMOVED](https://blog.csdn.net/qq_39665253/article/details/166844040)
 - Oct 03 - [Wi-Fi Direct 源码分析（11）：P2P-GROUP-STARTED 之后——Group Interface、IP 配置与真实数据通路](https://blog.csdn.net/qq_39665253/article/details/166844005)
-- Oct 02 - [Wi-Fi Direct 源码分析（10）：从 GO Negotiation 结果到 P2P-GROUP-STARTED](https://blog.csdn.net/qq_39665253/article/details/166843978)
 <!-- feed end -->
 
 </td></tr>
