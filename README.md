@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 15 - [LWIP教程 19：从 `ip_chksum_pseudo()` 到 `netif-＞linkoutput()`——lwIP 校验和、Checksum Offload 与驱动边界](https://blog.csdn.net/qq_39665253/article/details/167464264)
+- Oct 15 - [LWIP教程 18：从 `udp_sendto()` 到 `etharp_output()`——Multi-netif IPv4 路由、Default Netif、Gateway 与下一跳](https://blog.csdn.net/qq_39665253/article/details/167463468)
 - Oct 14 - [LWIP教程 17：从 `IP_ADD_MEMBERSHIP` 到 `igmp_input()`——IPv4 Multicast、IGMPv2、MAC Filter 与组成员状态机](https://blog.csdn.net/qq_39665253/article/details/167369864)
 - Oct 14 - [LWIP教程 16：从 MTU 到 `ip4_frag()` / `ip4_reass()`——IPv4 分片、重组、超时与内存压力](https://blog.csdn.net/qq_39665253/article/details/167369424)
 - Oct 13 - [LWIP教程 15：IPv4 与 IPv6——从网络层工作原理到嵌入式工程取舍](https://blog.csdn.net/qq_39665253/article/details/167260033)
-- Oct 13 - [LWIP教程 14：从 `dns_gethostbyname()` 到 `dns_found()`——DNS Resolver、UDP PCB、Cache、Timer 与异步回调](https://blog.csdn.net/qq_39665253/article/details/167259532)
-- Oct 12 - [LWIP教程 13：从 `dhcp_start()` 到 `DHCP_STATE_BOUND`——DHCPv4、ACD、Timer 与真实抓包](https://blog.csdn.net/qq_39665253/article/details/167216243)
 <!-- feed end -->
 
 </td></tr>
