@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 17 - [lwip教程 23：从 `ethernet_input()` 到 `LWIP_HOOK_VLAN_SET`——802.1Q VLAN Tag、VID/PCP 与硬件 Offload](https://blog.csdn.net/qq_39665253/article/details/167666524)
+- Oct 17 - [LWIP教程 22：从 PHY Auto-Negotiation 到 `netif_set_link_up()`——Link Up/Down、MAC 速率与协议栈恢复](https://blog.csdn.net/qq_39665253/article/details/167666248)
 - Oct 16 - [LWIP教程 21：从 DMA Descriptor Ring 到 `netif-＞input()`——ISR、Polling、TX Completion 与 Backpressure](https://blog.csdn.net/qq_39665253/article/details/167566033)
 - Oct 16 - [LWIP教程 20：从 `netif-＞linkoutput()` 到 `pbuf_custom`——Ethernet Driver、DMA Buffer、所有权与 Zero-copy](https://blog.csdn.net/qq_39665253/article/details/167565650)
 - Oct 15 - [LWIP教程 19：从 `ip_chksum_pseudo()` 到 `netif-＞linkoutput()`——lwIP 校验和、Checksum Offload 与驱动边界](https://blog.csdn.net/qq_39665253/article/details/167464264)
-- Oct 15 - [LWIP教程 18：从 `udp_sendto()` 到 `etharp_output()`——Multi-netif IPv4 路由、Default Netif、Gateway 与下一跳](https://blog.csdn.net/qq_39665253/article/details/167463468)
-- Oct 14 - [LWIP教程 17：从 `IP_ADD_MEMBERSHIP` 到 `igmp_input()`——IPv4 Multicast、IGMPv2、MAC Filter 与组成员状态机](https://blog.csdn.net/qq_39665253/article/details/167369864)
 <!-- feed end -->
 
 </td></tr>
