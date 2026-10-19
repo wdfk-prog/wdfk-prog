@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 19 - [lwip教程 34：MQTT 从协议流程到 lwIP 源码——连接、订阅、发布与回调链](https://blog.csdn.net/qq_39665253/article/details/168418148)
+- Oct 18 - [lwip教程 25：从 `autoip_start()` 到 `ACD_IP_OK`——IPv4 Link-Local、169.254/16、ARP Probe/Announce、Conflict 与](https://blog.csdn.net/qq_39665253/article/details/167778663)
+- Oct 18 - [LWIP教程 24：从 `mdns_example_init()` 到 `mdns_recv()`——mDNS、DNS-SD、Probe/Announce 与 PTR/SRV/TXT 服务发现](https://blog.csdn.net/qq_39665253/article/details/167778460)
 - Oct 17 - [lwip教程 23：从 `ethernet_input()` 到 `LWIP_HOOK_VLAN_SET`——802.1Q VLAN Tag、VID/PCP 与硬件 Offload](https://blog.csdn.net/qq_39665253/article/details/167666524)
 - Oct 17 - [LWIP教程 22：从 PHY Auto-Negotiation 到 `netif_set_link_up()`——Link Up/Down、MAC 速率与协议栈恢复](https://blog.csdn.net/qq_39665253/article/details/167666248)
-- Oct 16 - [LWIP教程 21：从 DMA Descriptor Ring 到 `netif-＞input()`——ISR、Polling、TX Completion 与 Backpressure](https://blog.csdn.net/qq_39665253/article/details/167566033)
-- Oct 16 - [LWIP教程 20：从 `netif-＞linkoutput()` 到 `pbuf_custom`——Ethernet Driver、DMA Buffer、所有权与 Zero-copy](https://blog.csdn.net/qq_39665253/article/details/167565650)
-- Oct 15 - [LWIP教程 19：从 `ip_chksum_pseudo()` 到 `netif-＞linkoutput()`——lwIP 校验和、Checksum Offload 与驱动边界](https://blog.csdn.net/qq_39665253/article/details/167464264)
 <!-- feed end -->
 
 </td></tr>
