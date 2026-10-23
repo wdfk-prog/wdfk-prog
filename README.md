@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 22 - [LWIP教程 32：从 `httpd_init()` 到 `http_sent()`——HTTPD、altcp、fsdata 与 HTTP 连接生命周期](https://blog.csdn.net/qq_39665253/article/details/168224921)
+- Oct 22 - [lwip教程 31：SLIP vs PPPoS——串口 IP Framing、错误检测、协商与工程边界](https://blog.csdn.net/qq_39665253/article/details/168224541)
 - Oct 21 - [LWIP教程 01：从 upstream `master` 到第一条可读源码链——Linux Host、构建树与源码地图](https://blog.csdn.net/qq_39665253/article/details/168117844)
 - Oct 21 - [LWIP教程 30：从 `ipcp_up()` 到 `ppp_link_status_cb()`——PPP 地址、DNS、Default Route、Link Down 与 Reconnect](https://blog.csdn.net/qq_39665253/article/details/168117283)
 - Oct 20 - [LWIP 教程 29：从 `lcp_open()` 到 `np_up()`——LCP、PAP/CHAP、IPCP、IPv6CP 与 PPP 协商状态机](https://blog.csdn.net/qq_39665253/article/details/167992944)
-- Oct 20 - [lwip教程 28：从 `pppos_create()` 到 `ppp_input()`——PPP Core、PPPoS 串口字节流与 HDLC-like Framing](https://blog.csdn.net/qq_39665253/article/details/167990065)
-- Oct 19 - [LWIP教程 27：从 `lwiperf_start_tcp_server_default()` 到 TCP ACK——lwIP 吞吐量、窗口、pbuf、线程与 Driver 瓶颈定位](https://blog.csdn.net/qq_39665253/article/details/167882180)
 <!-- feed end -->
 
 </td></tr>
