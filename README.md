@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Oct 27 - [lwip教程 41：从 NetDev 注册到 `socket_init()`——Default NetDev、Protocol Family 与 lwIP / AT Backend 选择](https://blog.csdn.net/qq_39665253/article/details/168740476)
+- Oct 27 - [LWIP教程 40：从 `socket()` 到 `lwip_socket()`——DFS fd、SAL Socket 与 lwIP Backend](https://blog.csdn.net/qq_39665253/article/details/168740283)
 - Oct 26 - [LWIP教程 39：从 `lwip_system_init()` 到 `tcpip_input()`——RT-Thread 如何把 lwIP 接进 RTOS 与 Ethernet Device](https://blog.csdn.net/qq_39665253/article/details/168643041)
 - Oct 26 - [lwip教程 38：从 `lwipopts.h` 到 Port Contract——lwIP 裁剪、构建选择、OS Port 与 Network Port](https://blog.csdn.net/qq_39665253/article/details/168642376)
 - Oct 25 - [LWIP教程 37：从 `httpc_get_file_dns()` 到 Body Callback——HTTP/HTTPS Client、DNS、altcp 与下载数据通路](https://blog.csdn.net/qq_39665253/article/details/168529453)
-- Oct 25 - [lwip教程 36：从 `sntp_example_init()` 到 `sntp_process()`——SNTP、DHCP/DNS、Timer 与系统时间同步](https://blog.csdn.net/qq_39665253/article/details/168527911)
-- Oct 24 - [lwip教程 35：从 `tls_config` 到 `mqtt_cyclic_timer()`——MQTT over TLS、Keep Alive、Timeout 与应用侧 Reconnect](https://blog.csdn.net/qq_39665253/article/details/168418539)
 <!-- feed end -->
 
 </td></tr>
