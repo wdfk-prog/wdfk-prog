@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="161" class="">
     <defs>
         <style/>
     </defs>
@@ -16,13 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 170kb of code in 291 edited files across 287 commits</small>
+                <small>estimation from 3.94mb of code in 865 edited files across 300 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.7363573155949" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="387.7363573155949" y="0" width="55.17962124585772" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="442.9159785614526" y="0" width="14.186007428502785" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.1019859899554" y="0" width="2.8980140100446175" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,12 +37,48 @@
                                 C
                             </div>
                             <small>
-                                <div>735 lines</div>
-                                <div>21.4 kB</div>
+                                <div>96.8k lines</div>
+                                <div>2.78 MB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>3.18k lines</div>
+                                <div>101 kB</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                C++
+                            </div>
+                            <small>
+                                <div>13.6k lines</div>
+                                <div>395 kB</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                PowerShell
+                            </div>
+                            <small>
+                                <div>652 lines</div>
+                                <div>20.7 kB</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
                 <div class="row footnote warning">
