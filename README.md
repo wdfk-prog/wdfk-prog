@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 15 - [Wi-Fi Direct 真机实践：固定 GO、授权加入与稳定性排查](https://blog.csdn.net/qq_39665253/article/details/170813234)
 - Oct 29 - [LWIP教程 45：从 Link Up 到 MQTT Reconnect——STM32 + RT-Thread + lwIP MCU Cloud Lifecycle](https://blog.csdn.net/qq_39665253/article/details/168973561)
 - Oct 29 - [LWIP教程 44：从 `phy_monitor_thread_entry()` 到 `dhcp_network_changed()`——STM32H750 PHY Link、Auto-negotia](https://blog.csdn.net/qq_39665253/article/details/168973441)
 - Oct 28 - [LWIP教程 43：从 `ETH_IRQHandler()` 到 `HAL_ETH_Transmit()`——STM32H7 Ethernet DMA、Descriptor、Cache 与 Zero-](https://blog.csdn.net/qq_39665253/article/details/168875786)
 - Oct 28 - [LWIP教程 42：从 `rt_hw_stm32_eth_init()` 到 `tcpip_input()`——STM32H750 + RT-Thread + lwIP Ethernet Port](https://blog.csdn.net/qq_39665253/article/details/168874286)
-- Oct 27 - [lwip教程 41：从 NetDev 注册到 `socket_init()`——Default NetDev、Protocol Family 与 lwIP / AT Backend 选择](https://blog.csdn.net/qq_39665253/article/details/168740476)
 <!-- feed end -->
 
 </td></tr>
