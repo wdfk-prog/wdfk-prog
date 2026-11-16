@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 15 - [RT-Thread WS2812B 软件包完成重构：多灯带、动态灯效与更灵活的 SPI 驱动](https://blog.csdn.net/qq_39665253/article/details/170816101)
+- Nov 15 - [RT-Thread CAN 框架正在重构：为什么要改、相比旧版好在哪里，以及邀请社区一起验证](https://blog.csdn.net/qq_39665253/article/details/170815813)
+- Nov 15 - [STM32 输入捕获终于接入 RT-Thread：测量脉冲，不必再从 HAL 回调写起](https://blog.csdn.net/qq_39665253/article/details/170815681)
 - Nov 15 - [Wi-Fi Direct 真机实践：固定 GO、授权加入与稳定性排查](https://blog.csdn.net/qq_39665253/article/details/170813234)
 - Oct 29 - [LWIP教程 45：从 Link Up 到 MQTT Reconnect——STM32 + RT-Thread + lwIP MCU Cloud Lifecycle](https://blog.csdn.net/qq_39665253/article/details/168973561)
-- Oct 29 - [LWIP教程 44：从 `phy_monitor_thread_entry()` 到 `dhcp_network_changed()`——STM32H750 PHY Link、Auto-negotia](https://blog.csdn.net/qq_39665253/article/details/168973441)
-- Oct 28 - [LWIP教程 43：从 `ETH_IRQHandler()` 到 `HAL_ETH_Transmit()`——STM32H7 Ethernet DMA、Descriptor、Cache 与 Zero-](https://blog.csdn.net/qq_39665253/article/details/168875786)
-- Oct 28 - [LWIP教程 42：从 `rt_hw_stm32_eth_init()` 到 `tcpip_input()`——STM32H750 + RT-Thread + lwIP Ethernet Port](https://blog.csdn.net/qq_39665253/article/details/168874286)
 <!-- feed end -->
 
 </td></tr>
