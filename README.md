@@ -61,11 +61,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 16 - [RT-Thread 红外框架 IF 重构：从单设备 NEC 解码到多实例收发，原理、优化与使用指南](https://blog.csdn.net/qq_39665253/article/details/170818520)
 - Nov 15 - [RT-Thread WS2812B 软件包完成重构：多灯带、动态灯效与更灵活的 SPI 驱动](https://blog.csdn.net/qq_39665253/article/details/170816101)
 - Nov 15 - [RT-Thread CAN 框架正在重构：为什么要改、相比旧版好在哪里，以及邀请社区一起验证](https://blog.csdn.net/qq_39665253/article/details/170815813)
 - Nov 15 - [STM32 输入捕获终于接入 RT-Thread：测量脉冲，不必再从 HAL 回调写起](https://blog.csdn.net/qq_39665253/article/details/170815681)
 - Nov 15 - [Wi-Fi Direct 真机实践：固定 GO、授权加入与稳定性排查](https://blog.csdn.net/qq_39665253/article/details/170813234)
-- Oct 29 - [LWIP教程 45：从 Link Up 到 MQTT Reconnect——STM32 + RT-Thread + lwIP MCU Cloud Lifecycle](https://blog.csdn.net/qq_39665253/article/details/168973561)
 <!-- feed end -->
 
 </td></tr>
